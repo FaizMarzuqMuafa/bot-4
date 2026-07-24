@@ -1,6 +1,6 @@
 {
-  "commandsExecuted": 44,
-  "command_ping": 31,
+  "commandsExecuted": 48,
+  "command_ping": 33,
   "command_self": 2,
   "command_swgc": 2,
   "dailyResets": 4,
@@ -8,5 +8,5 @@
   "command_menu": 2,
   "command_s": 1,
   "command_addown": 1,
-  "command_swgcv2all": 4
+  "command_swgcv2all": 6
 }
