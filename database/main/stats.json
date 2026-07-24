@@ -1,5 +1,5 @@
 {
-  "commandsExecuted": 48,
+  "commandsExecuted": 49,
   "command_ping": 33,
   "command_self": 2,
   "command_swgc": 2,
@@ -8,5 +8,5 @@
   "command_menu": 2,
   "command_s": 1,
   "command_addown": 1,
-  "command_swgcv2all": 6
+  "command_swgcv2all": 7
 }
