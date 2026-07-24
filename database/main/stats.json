@@ -1,12 +1,12 @@
 {
-  "commandsExecuted": 49,
-  "command_ping": 33,
+  "commandsExecuted": 52,
+  "command_ping": 35,
   "command_self": 2,
   "command_swgc": 2,
-  "dailyResets": 4,
+  "dailyResets": 5,
   "command_ganti-asset": 1,
   "command_menu": 2,
   "command_s": 1,
   "command_addown": 1,
-  "command_swgcv2all": 7
+  "command_swgcv2all": 8
 }
