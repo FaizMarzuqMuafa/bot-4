@@ -41,7 +41,13 @@
   "panelCreateLastUsed": 1775377733441,
   "autoJoinGc": false,
   "autoSholat": false,
-  "errorLog": [],
+  "errorLog": [
+    {
+      "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1785160486160
+    }
+  ],
   "jpmBlacklist": [],
   "bannedUsers": [],
   "allmenuVariant": 6,
@@ -111,7 +117,7 @@
     },
     "6288975677925@s.whatsapp.net": {
       "jid": "6288975677925@s.whatsapp.net",
-      "name": "zhuu"
+      "name": "zharr"
     },
     "628134885213@s.whatsapp.net": {
       "jid": "628134885213@s.whatsapp.net",
@@ -283,7 +289,7 @@
     },
     "62881012290410@s.whatsapp.net": {
       "jid": "62881012290410@s.whatsapp.net",
-      "name": "rasya dipanggil nengok"
+      "name": "tung tung sahur"
     },
     "6285196493176@s.whatsapp.net": {
       "jid": "6285196493176@s.whatsapp.net",
@@ -451,7 +457,7 @@
     },
     "628971154258@s.whatsapp.net": {
       "jid": "628971154258@s.whatsapp.net",
-      "name": "dzsix.exe"
+      "name": "— 𝕯𝖟𝕾𝖎𝖝𝖌𝖆𝖎 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑"
     },
     "6282373326958@s.whatsapp.net": {
       "jid": "6282373326958@s.whatsapp.net",
@@ -719,7 +725,7 @@
     },
     "62895619027802@s.whatsapp.net": {
       "jid": "62895619027802@s.whatsapp.net",
-      "name": "dan"
+      "name": "dandy"
     },
     "62881011740193@s.whatsapp.net": {
       "jid": "62881011740193@s.whatsapp.net",
@@ -875,7 +881,7 @@
     },
     "6287794866670@s.whatsapp.net": {
       "jid": "6287794866670@s.whatsapp.net",
-      "name": "zamzsewturr70"
+      "name": "p"
     },
     "6285716599307@s.whatsapp.net": {
       "jid": "6285716599307@s.whatsapp.net",
@@ -1899,7 +1905,7 @@
     },
     "6283128415432@s.whatsapp.net": {
       "jid": "6283128415432@s.whatsapp.net",
-      "name": "ZACK STORE PP PONGKI SHOP"
+      "name": "𝘀𝗼𝗳𝗶𝗮"
     },
     "6289519345759@s.whatsapp.net": {
       "jid": "6289519345759@s.whatsapp.net",
@@ -1907,7 +1913,7 @@
     },
     "6283105832948@s.whatsapp.net": {
       "jid": "6283105832948@s.whatsapp.net",
-      "name": "RIDOS STORE"
+      "name": "ridos"
     },
     "6281233507980@s.whatsapp.net": {
       "jid": "6281233507980@s.whatsapp.net",
@@ -2023,7 +2029,7 @@
     },
     "6285837420866@s.whatsapp.net": {
       "jid": "6285837420866@s.whatsapp.net",
-      "name": "lazz pakis suka ress"
+      "name": "𝐿𝐴𝑍𝑍 𝑃𝐴𝐾𝐼𝑆"
     },
     "6285181454364@s.whatsapp.net": {
       "jid": "6285181454364@s.whatsapp.net",
@@ -2103,7 +2109,7 @@
     },
     "628176424323@s.whatsapp.net": {
       "jid": "628176424323@s.whatsapp.net",
-      "name": "vell Jpm Open24jam"
+      "name": "Vel"
     },
     "6283176226062@s.whatsapp.net": {
       "jid": "6283176226062@s.whatsapp.net",
@@ -2439,7 +2445,7 @@
     },
     "6282199600405@s.whatsapp.net": {
       "jid": "6282199600405@s.whatsapp.net",
-      "name": "Manz"
+      "name": "Manzz"
     },
     "62895629024186@s.whatsapp.net": {
       "jid": "62895629024186@s.whatsapp.net",
@@ -2543,7 +2549,7 @@
     },
     "6282113652646@s.whatsapp.net": {
       "jid": "6282113652646@s.whatsapp.net",
-      "name": "DELZZ"
+      "name": "DELZZ kw"
     },
     "6283177577571@s.whatsapp.net": {
       "jid": "6283177577571@s.whatsapp.net",
@@ -3203,7 +3209,7 @@
     },
     "6289672428940@s.whatsapp.net": {
       "jid": "6289672428940@s.whatsapp.net",
-      "name": "Namir Trader HS"
+      "name": "Namir Trader"
     },
     "6283170407369@s.whatsapp.net": {
       "jid": "6283170407369@s.whatsapp.net",
@@ -3339,7 +3345,7 @@
     },
     "6285177227805@s.whatsapp.net": {
       "jid": "6285177227805@s.whatsapp.net",
-      "name": "aggur"
+      "name": "Isss"
     },
     "6285735634585@s.whatsapp.net": {
       "jid": "6285735634585@s.whatsapp.net",
@@ -4035,7 +4041,7 @@
     },
     "6285694061121@s.whatsapp.net": {
       "jid": "6285694061121@s.whatsapp.net",
-      "name": "veizghtz"
+      "name": "geerald alpha"
     },
     "62882021724071@s.whatsapp.net": {
       "jid": "62882021724071@s.whatsapp.net",
@@ -4415,7 +4421,7 @@
     },
     "6285888177435@s.whatsapp.net": {
       "jid": "6285888177435@s.whatsapp.net",
-      "name": "Adyt"
+      "name": "urbannn"
     },
     "6285299591540@s.whatsapp.net": {
       "jid": "6285299591540@s.whatsapp.net",
@@ -4927,7 +4933,7 @@
     },
     "6285218415701@s.whatsapp.net": {
       "jid": "6285218415701@s.whatsapp.net",
-      "name": "BIYSXS STR"
+      "name": "obui"
     },
     "6285133269961@s.whatsapp.net": {
       "jid": "6285133269961@s.whatsapp.net",
@@ -5267,7 +5273,7 @@
     },
     "6283196184703@s.whatsapp.net": {
       "jid": "6283196184703@s.whatsapp.net",
-      "name": "cekmin"
+      "name": "Ta"
     },
     "6285720144831@s.whatsapp.net": {
       "jid": "6285720144831@s.whatsapp.net",
@@ -5915,7 +5921,7 @@
     },
     "6283185641649@s.whatsapp.net": {
       "jid": "6283185641649@s.whatsapp.net",
-      "name": "APIS BACK SHARE"
+      "name": "bos apis share"
     },
     "6283169588118@s.whatsapp.net": {
       "jid": "6283169588118@s.whatsapp.net",
@@ -7211,7 +7217,7 @@
     },
     "6283166287299@s.whatsapp.net": {
       "jid": "6283166287299@s.whatsapp.net",
-      "name": "zyy str"
+      "name": "zyy c1 kenon"
     },
     "6285190609313@s.whatsapp.net": {
       "jid": "6285190609313@s.whatsapp.net",
@@ -7255,7 +7261,7 @@
     },
     "6283182220053@s.whatsapp.net": {
       "jid": "6283182220053@s.whatsapp.net",
-      "name": "Yanz"
+      "name": "Yanz🥰"
     },
     "6289531419970@s.whatsapp.net": {
       "jid": "6289531419970@s.whatsapp.net",
@@ -8027,7 +8033,7 @@
     },
     "6287891323089@s.whatsapp.net": {
       "jid": "6287891323089@s.whatsapp.net",
-      "name": "ᥲᥙᥣᥣ ᥲȷᥲᥲ"
+      "name": "ᥲᥙᥣl"
     },
     "639519468170@s.whatsapp.net": {
       "jid": "639519468170@s.whatsapp.net",
@@ -8919,7 +8925,7 @@
     },
     "6282371873169@s.whatsapp.net": {
       "jid": "6282371873169@s.whatsapp.net",
-      "name": "INI BOT!! CHAT? DENDA 50K"
+      "name": "mau Sewa Bot/Buy Bot? Pm"
     },
     "6285169548120@s.whatsapp.net": {
       "jid": "6285169548120@s.whatsapp.net",
@@ -9059,7 +9065,7 @@
     },
     "6285863579131@s.whatsapp.net": {
       "jid": "6285863579131@s.whatsapp.net",
-      "name": "haters"
+      "name": "who?"
     },
     "6285871101477@s.whatsapp.net": {
       "jid": "6285871101477@s.whatsapp.net",
@@ -9995,7 +10001,7 @@
     },
     "6285184267738@s.whatsapp.net": {
       "jid": "6285184267738@s.whatsapp.net",
-      "name": "PABLO STE REAL"
+      "name": "PABLO STR REAL"
     },
     "6285817239287@s.whatsapp.net": {
       "jid": "6285817239287@s.whatsapp.net",
@@ -10859,7 +10865,7 @@
     },
     "628817011621@s.whatsapp.net": {
       "jid": "628817011621@s.whatsapp.net",
-      "name": "DIMZZ STORE"
+      "name": "dimzz store"
     },
     "6282144917061@s.whatsapp.net": {
       "jid": "6282144917061@s.whatsapp.net",
@@ -11163,7 +11169,7 @@
     },
     "6285743240058@s.whatsapp.net": {
       "jid": "6285743240058@s.whatsapp.net",
-      "name": "VICKZ STORE BLITAR JATIM"
+      "name": "vicky store"
     },
     "6282177486813@s.whatsapp.net": {
       "jid": "6282177486813@s.whatsapp.net",
@@ -11395,7 +11401,7 @@
     },
     "6282330487726@s.whatsapp.net": {
       "jid": "6282330487726@s.whatsapp.net",
-      "name": "when ya"
+      "name": "when ya dapet dia H"
     },
     "6285659192967@s.whatsapp.net": {
       "jid": "6285659192967@s.whatsapp.net",
@@ -11915,7 +11921,7 @@
     },
     "62895634419871@s.whatsapp.net": {
       "jid": "62895634419871@s.whatsapp.net",
-      "name": "nnoel"
+      "name": "nn"
     },
     "6285849881359@s.whatsapp.net": {
       "jid": "6285849881359@s.whatsapp.net",
@@ -12567,7 +12573,7 @@
     },
     "6283179610672@s.whatsapp.net": {
       "jid": "6283179610672@s.whatsapp.net",
-      "name": "joki bf"
+      "name": "putrastore"
     },
     "628978693508@s.whatsapp.net": {
       "jid": "628978693508@s.whatsapp.net",
@@ -13331,7 +13337,7 @@
     },
     "6289684804010@s.whatsapp.net": {
       "jid": "6289684804010@s.whatsapp.net",
-      "name": "pade shop"
+      "name": "PADE SHOP NOPE UTAMA"
     },
     "6285830672108@s.whatsapp.net": {
       "jid": "6285830672108@s.whatsapp.net",
@@ -13551,7 +13557,7 @@
     },
     "6285780062689@s.whatsapp.net": {
       "jid": "6285780062689@s.whatsapp.net",
-      "name": "ky"
+      "name": "rakz"
     },
     "628136242505@s.whatsapp.net": {
       "jid": "628136242505@s.whatsapp.net",
@@ -13583,7 +13589,7 @@
     },
     "6287868857657@s.whatsapp.net": {
       "jid": "6287868857657@s.whatsapp.net",
-      "name": "syadd"
+      "name": "syadd jpm"
     },
     "6283119507504@s.whatsapp.net": {
       "jid": "6283119507504@s.whatsapp.net",
@@ -13663,7 +13669,7 @@
     },
     "6288242435463@s.whatsapp.net": {
       "jid": "6288242435463@s.whatsapp.net",
-      "name": "FerzzY1"
+      "name": "FerzzY1 Rto 5K Testi"
     },
     "6282343425191@s.whatsapp.net": {
       "jid": "6282343425191@s.whatsapp.net",
@@ -13911,7 +13917,7 @@
     },
     "6285928314156@s.whatsapp.net": {
       "jid": "6285928314156@s.whatsapp.net",
-      "name": "."
+      "name": ".."
     },
     "6288901466070@s.whatsapp.net": {
       "jid": "6288901466070@s.whatsapp.net",
@@ -14003,7 +14009,7 @@
     },
     "6285150581105@s.whatsapp.net": {
       "jid": "6285150581105@s.whatsapp.net",
-      "name": "Miki open jpm"
+      "name": "fanz store"
     },
     "62881010718524@s.whatsapp.net": {
       "jid": "62881010718524@s.whatsapp.net",
@@ -14443,7 +14449,7 @@
     },
     "6283870918961@s.whatsapp.net": {
       "jid": "6283870918961@s.whatsapp.net",
-      "name": "NOPE UTAMA MANG ATO"
+      "name": "NOPE UTAMA MANG ATO ( rehat dulu )"
     },
     "6281977283618@s.whatsapp.net": {
       "jid": "6281977283618@s.whatsapp.net",
@@ -14487,7 +14493,7 @@
     },
     "6281248796890@s.whatsapp.net": {
       "jid": "6281248796890@s.whatsapp.net",
-      "name": "MARKET RIKZZ"
+      "name": "own nya Lifzzy no 1"
     },
     "6288215213966@s.whatsapp.net": {
       "jid": "6288215213966@s.whatsapp.net",
@@ -14631,7 +14637,7 @@
     },
     "6282384689903@s.whatsapp.net": {
       "jid": "6282384689903@s.whatsapp.net",
-      "name": "Yanny"
+      "name": "Yannn"
     },
     "6283197177951@s.whatsapp.net": {
       "jid": "6283197177951@s.whatsapp.net",
@@ -15211,7 +15217,7 @@
     },
     "6283136378446@s.whatsapp.net": {
       "jid": "6283136378446@s.whatsapp.net",
-      "name": "Dimas_stecu"
+      "name": "Dimas kek Jefri nichol"
     },
     "6283111182353@s.whatsapp.net": {
       "jid": "6283111182353@s.whatsapp.net",
@@ -15423,7 +15429,7 @@
     },
     "6285217858451@s.whatsapp.net": {
       "jid": "6285217858451@s.whatsapp.net",
-      "name": "where are you now?"
+      "name": "Ai where are you now?"
     },
     "6283150620059@s.whatsapp.net": {
       "jid": "6283150620059@s.whatsapp.net",
@@ -15863,7 +15869,7 @@
     },
     "6285721271967@s.whatsapp.net": {
       "jid": "6285721271967@s.whatsapp.net",
-      "name": "Chell"
+      "name": "CHELL STR"
     },
     "6289691952846@s.whatsapp.net": {
       "jid": "6289691952846@s.whatsapp.net",
@@ -16827,7 +16833,7 @@
     },
     "6285129235402@s.whatsapp.net": {
       "jid": "6285129235402@s.whatsapp.net",
-      "name": "kalz"
+      "name": "kalzz"
     },
     "210303811870913@s.whatsapp.net": {
       "jid": "210303811870913@s.whatsapp.net",
@@ -17355,7 +17361,7 @@
     },
     "628216613865@s.whatsapp.net": {
       "jid": "628216613865@s.whatsapp.net",
-      "name": "Yya"
+      "name": "ad al"
     },
     "6283113153349@s.whatsapp.net": {
       "jid": "6283113153349@s.whatsapp.net",
@@ -17451,7 +17457,7 @@
     },
     "6283130964669@s.whatsapp.net": {
       "jid": "6283130964669@s.whatsapp.net",
-      "name": "iya"
+      "name": "iki epep"
     },
     "6281574763053@s.whatsapp.net": {
       "jid": "6281574763053@s.whatsapp.net",
@@ -17567,7 +17573,7 @@
     },
     "6285182055883@s.whatsapp.net": {
       "jid": "6285182055883@s.whatsapp.net",
-      "name": "RamJet"
+      "name": "RamJet STORE"
     },
     "6282363365265@s.whatsapp.net": {
       "jid": "6282363365265@s.whatsapp.net",
@@ -17955,7 +17961,7 @@
     },
     "6283874954778@s.whatsapp.net": {
       "jid": "6283874954778@s.whatsapp.net",
-      "name": "drs"
+      "name": "yy"
     },
     "6285312011697@s.whatsapp.net": {
       "jid": "6285312011697@s.whatsapp.net",
@@ -18203,7 +18209,7 @@
     },
     "6285780158802@s.whatsapp.net": {
       "jid": "6285780158802@s.whatsapp.net",
-      "name": "mbut"
+      "name": "omaga"
     },
     "6283895342558@s.whatsapp.net": {
       "jid": "6283895342558@s.whatsapp.net",
@@ -18451,7 +18457,7 @@
     },
     "6285126239910@s.whatsapp.net": {
       "jid": "6285126239910@s.whatsapp.net",
-      "name": "nope 2 market rikzz"
+      "name": "henz market jpm"
     },
     "6283843646183@s.whatsapp.net": {
       "jid": "6283843646183@s.whatsapp.net",
@@ -19051,7 +19057,7 @@
     },
     "6287856598467@s.whatsapp.net": {
       "jid": "6287856598467@s.whatsapp.net",
-      "name": "arya nope utama"
+      "name": "arya nope 2"
     },
     "6283163263504@s.whatsapp.net": {
       "jid": "6283163263504@s.whatsapp.net",
@@ -19107,7 +19113,7 @@
     },
     "6283149044973@s.whatsapp.net": {
       "jid": "6283149044973@s.whatsapp.net",
-      "name": "MJP STUR ONLY [4973]📍"
+      "name": "MJP STUR ONLY[4973]📍"
     },
     "6282342110913@s.whatsapp.net": {
       "jid": "6282342110913@s.whatsapp.net",
@@ -19919,7 +19925,7 @@
     },
     "6288287461064@s.whatsapp.net": {
       "jid": "6288287461064@s.whatsapp.net",
-      "name": "zril"
+      "name": "Zril"
     },
     "62895634600589@s.whatsapp.net": {
       "jid": "62895634600589@s.whatsapp.net",
@@ -20751,7 +20757,7 @@
     },
     "6283851325693@s.whatsapp.net": {
       "jid": "6283851325693@s.whatsapp.net",
-      "name": "MANZZ STOREE [ 5693 ]"
+      "name": "ada"
     },
     "6282319258738@s.whatsapp.net": {
       "jid": "6282319258738@s.whatsapp.net",
@@ -20891,7 +20897,7 @@
     },
     "6282395597793@s.whatsapp.net": {
       "jid": "6282395597793@s.whatsapp.net",
-      "name": "rsyah"
+      "name": "were"
     },
     "6281252436028@s.whatsapp.net": {
       "jid": "6281252436028@s.whatsapp.net",
@@ -21183,7 +21189,7 @@
     },
     "6287819297378@s.whatsapp.net": {
       "jid": "6287819297378@s.whatsapp.net",
-      "name": "WA KUSUS REKBER"
+      "name": "Rey"
     },
     "6285947764175@s.whatsapp.net": {
       "jid": "6285947764175@s.whatsapp.net",
@@ -21191,7 +21197,7 @@
     },
     "6285707316755@s.whatsapp.net": {
       "jid": "6285707316755@s.whatsapp.net",
-      "name": "F"
+      "name": "ky~"
     },
     "628561703282@s.whatsapp.net": {
       "jid": "628561703282@s.whatsapp.net",
@@ -21519,7 +21525,7 @@
     },
     "6283165497014@s.whatsapp.net": {
       "jid": "6283165497014@s.whatsapp.net",
-      "name": "WIXXZZSTOREE REAL PT JONZ & JERZ PP BOMEL"
+      "name": "WIXXZZSTOREE REAL OWN JONZ & JERZ PP BOMEL"
     },
     "6283892705486@s.whatsapp.net": {
       "jid": "6283892705486@s.whatsapp.net",
@@ -21531,7 +21537,7 @@
     },
     "6283895553485@s.whatsapp.net": {
       "jid": "6283895553485@s.whatsapp.net",
-      "name": "ABAY SHOP NOPE 2 OWNER PONGKI SHOP"
+      "name": "ABAY"
     },
     "6285733317728@s.whatsapp.net": {
       "jid": "6285733317728@s.whatsapp.net",
@@ -22391,7 +22397,7 @@
     },
     "6289527829155@s.whatsapp.net": {
       "jid": "6289527829155@s.whatsapp.net",
-      "name": "pt mbg"
+      "name": "jual"
     },
     "6285824724857@s.whatsapp.net": {
       "jid": "6285824724857@s.whatsapp.net",
@@ -22715,7 +22721,7 @@
     },
     "6282173011264@s.whatsapp.net": {
       "jid": "6282173011264@s.whatsapp.net",
-      "name": "raz4aa"
+      "name": "r3nzzy"
     },
     "6283119282472@s.whatsapp.net": {
       "jid": "6283119282472@s.whatsapp.net",
@@ -24131,7 +24137,7 @@
     },
     "6285267339025@s.whatsapp.net": {
       "jid": "6285267339025@s.whatsapp.net",
-      "name": "Ytta"
+      "name": "Fahri abdilah"
     },
     "6285892064137@s.whatsapp.net": {
       "jid": "6285892064137@s.whatsapp.net",
@@ -26467,7 +26473,7 @@
     },
     "6285117401212@s.whatsapp.net": {
       "jid": "6285117401212@s.whatsapp.net",
-      "name": "HadSsyyyy."
+      "name": "Mas Zenn"
     },
     "6285124343038@s.whatsapp.net": {
       "jid": "6285124343038@s.whatsapp.net",
@@ -26571,7 +26577,7 @@
     },
     "6289673544878@s.whatsapp.net": {
       "jid": "6289673544878@s.whatsapp.net",
-      "name": "𝙕𝙖𝙧𝙭𝙘"
+      "name": "tanzstore"
     },
     "6281953007802@s.whatsapp.net": {
       "jid": "6281953007802@s.whatsapp.net",
@@ -27939,7 +27945,7 @@
     },
     "62882005761634@s.whatsapp.net": {
       "jid": "62882005761634@s.whatsapp.net",
-      "name": "vanzz"
+      "name": "vanz"
     },
     "6285194032910@s.whatsapp.net": {
       "jid": "6285194032910@s.whatsapp.net",
@@ -29339,7 +29345,7 @@
     },
     "6285353335272@s.whatsapp.net": {
       "jid": "6285353335272@s.whatsapp.net",
-      "name": "tpz"
+      "name": "whyu str"
     },
     "6289518808262@s.whatsapp.net": {
       "jid": "6289518808262@s.whatsapp.net",
@@ -29491,7 +29497,7 @@
     },
     "6285165455233@s.whatsapp.net": {
       "jid": "6285165455233@s.whatsapp.net",
-      "name": "Rayzz suka stock ress"
+      "name": "lanz suka stock ress"
     },
     "6285126911848@s.whatsapp.net": {
       "jid": "6285126911848@s.whatsapp.net",
@@ -30011,7 +30017,7 @@
     },
     "6283150544697@s.whatsapp.net": {
       "jid": "6283150544697@s.whatsapp.net",
-      "name": "Dheri ilham saputra"
+      "name": "deriidelrey"
     },
     "6285977232160@s.whatsapp.net": {
       "jid": "6285977232160@s.whatsapp.net",
@@ -31675,7 +31681,7 @@
     },
     "6285746496323@s.whatsapp.net": {
       "jid": "6285746496323@s.whatsapp.net",
-      "name": "ttt"
+      "name": "yyy"
     },
     "628816344820@s.whatsapp.net": {
       "jid": "628816344820@s.whatsapp.net",
@@ -31939,7 +31945,7 @@
     },
     "6283857918220@s.whatsapp.net": {
       "jid": "6283857918220@s.whatsapp.net",
-      "name": "?"
+      "name": "."
     },
     "6285864754461@s.whatsapp.net": {
       "jid": "6285864754461@s.whatsapp.net",
@@ -32139,7 +32145,7 @@
     },
     "6285781158372@s.whatsapp.net": {
       "jid": "6285781158372@s.whatsapp.net",
-      "name": "púlz down jb"
+      "name": "dd púlz"
     },
     "6285876025833@s.whatsapp.net": {
       "jid": "6285876025833@s.whatsapp.net",
@@ -32235,7 +32241,7 @@
     },
     "6283875420928@s.whatsapp.net": {
       "jid": "6283875420928@s.whatsapp.net",
-      "name": "hidup semati !"
+      "name": "ADMIN JP/MC/24 JAM CULIK AJA"
     },
     "6283160480596@s.whatsapp.net": {
       "jid": "6283160480596@s.whatsapp.net",
@@ -32427,7 +32433,7 @@
     },
     "6288211486567@s.whatsapp.net": {
       "jid": "6288211486567@s.whatsapp.net",
-      "name": "Yóu're Ókay Páá?"
+      "name": "Yóu're Ókay Páá??"
     },
     "6285766483014@s.whatsapp.net": {
       "jid": "6285766483014@s.whatsapp.net",
@@ -32639,7 +32645,7 @@
     },
     "6287767006892@s.whatsapp.net": {
       "jid": "6287767006892@s.whatsapp.net",
-      "name": "mie ayam rasa matcha🫪"
+      "name": "> ayam goreng<"
     },
     "6285831853797@s.whatsapp.net": {
       "jid": "6285831853797@s.whatsapp.net",
@@ -32831,7 +32837,7 @@
     },
     "6285126920135@s.whatsapp.net": {
       "jid": "6285126920135@s.whatsapp.net",
-      "name": "masuk"
+      "name": "opit"
     },
     "62895344652993@s.whatsapp.net": {
       "jid": "62895344652993@s.whatsapp.net",
@@ -33099,7 +33105,7 @@
     },
     "6283160738997@s.whatsapp.net": {
       "jid": "6283160738997@s.whatsapp.net",
-      "name": "Xoxo"
+      "name": "fadel"
     },
     "6282324613806@s.whatsapp.net": {
       "jid": "6282324613806@s.whatsapp.net",
@@ -33175,7 +33181,7 @@
     },
     "6283897382831@s.whatsapp.net": {
       "jid": "6283897382831@s.whatsapp.net",
-      "name": "broom"
+      "name": "misterbis"
     },
     "62882005052292@s.whatsapp.net": {
       "jid": "62882005052292@s.whatsapp.net",
@@ -33715,7 +33721,7 @@
     },
     "6283820359389@s.whatsapp.net": {
       "jid": "6283820359389@s.whatsapp.net",
-      "name": "ft cs by"
+      "name": "opet"
     },
     "6285139136121@s.whatsapp.net": {
       "jid": "6285139136121@s.whatsapp.net",
@@ -34079,7 +34085,7 @@
     },
     "6283133288576@s.whatsapp.net": {
       "jid": "6283133288576@s.whatsapp.net",
-      "name": "–𝙠𝙚̈𝙡𝙡𝙭𝙘𝙜𝙬𝙖𝙯𝙞_"
+      "name": "ƙׁׅꫀׁׅܻ݊ᥣׁׅ֪ᥣׁׅ֪ᧁׁᨰׁׅɑׁׅ݊ꪀzׁׁׁׅׅׅ֬֬֬ꪱׁׁׁׅׅׅ-"
     },
     "6285752251187@s.whatsapp.net": {
       "jid": "6285752251187@s.whatsapp.net",
@@ -34211,7 +34217,7 @@
     },
     "6283177334523@s.whatsapp.net": {
       "jid": "6283177334523@s.whatsapp.net",
-      "name": "ceii"
+      "name": "ceyii"
     },
     "6287754374133@s.whatsapp.net": {
       "jid": "6287754374133@s.whatsapp.net",
@@ -34759,7 +34765,7 @@
     },
     "6283143471023@s.whatsapp.net": {
       "jid": "6283143471023@s.whatsapp.net",
-      "name": "mennxytaa"
+      "name": "MennXd"
     },
     "62881025357457@s.whatsapp.net": {
       "jid": "62881025357457@s.whatsapp.net",
@@ -35199,7 +35205,7 @@
     },
     "628139616649@s.whatsapp.net": {
       "jid": "628139616649@s.whatsapp.net",
-      "name": "Fahri Ri"
+      "name": "JURAGAN"
     },
     "6282183778117@s.whatsapp.net": {
       "jid": "6282183778117@s.whatsapp.net",
@@ -36171,7 +36177,7 @@
     },
     "6283122255319@s.whatsapp.net": {
       "jid": "6283122255319@s.whatsapp.net",
-      "name": "ܻ⨍rii 𝐡/𝐜𝟗/𝐩𝐬𝐛🇵🇭"
+      "name": "ܻ⨍rii 𝐡/𝐜𝟗/𝐩𝐬𝐛 🇵🇭"
     },
     "6285706208374@s.whatsapp.net": {
       "jid": "6285706208374@s.whatsapp.net",
@@ -36227,7 +36233,7 @@
     },
     "6282381755699@s.whatsapp.net": {
       "jid": "6282381755699@s.whatsapp.net",
-      "name": "LK LEGENDS"
+      "name": "YANZ STORE1"
     },
     "6283173572603@s.whatsapp.net": {
       "jid": "6283173572603@s.whatsapp.net",
@@ -36243,7 +36249,7 @@
     },
     "6282280549441@s.whatsapp.net": {
       "jid": "6282280549441@s.whatsapp.net",
-      "name": "~nyongg"
+      "name": "~orng dalam ✌🤪"
     },
     "6288972126363@s.whatsapp.net": {
       "jid": "6288972126363@s.whatsapp.net",
@@ -36659,7 +36665,7 @@
     },
     "6283168411556@s.whatsapp.net": {
       "jid": "6283168411556@s.whatsapp.net",
-      "name": "cilocruelreall"
+      "name": "cilo cruel reall"
     },
     "6281350830508@s.whatsapp.net": {
       "jid": "6281350830508@s.whatsapp.net",
@@ -36835,7 +36841,7 @@
     },
     "6287789154213@s.whatsapp.net": {
       "jid": "6287789154213@s.whatsapp.net",
-      "name": "zalu0141"
+      "name": "dy"
     },
     "6282128196874@s.whatsapp.net": {
       "jid": "6282128196874@s.whatsapp.net",
@@ -37107,7 +37113,7 @@
     },
     "6285701755301@s.whatsapp.net": {
       "jid": "6285701755301@s.whatsapp.net",
-      "name": "fidzz 13 str / hapid"
+      "name": "hapid"
     },
     "6288973629262@s.whatsapp.net": {
       "jid": "6288973629262@s.whatsapp.net",
@@ -37243,7 +37249,7 @@
     },
     "6289675920800@s.whatsapp.net": {
       "jid": "6289675920800@s.whatsapp.net",
-      "name": "pilass"
+      "name": "purtaa"
     },
     "6281291331216@s.whatsapp.net": {
       "jid": "6281291331216@s.whatsapp.net",
@@ -37355,7 +37361,7 @@
     },
     "6288296677159@s.whatsapp.net": {
       "jid": "6288296677159@s.whatsapp.net",
-      "name": "Nezha Store"
+      "name": "Nicky Store"
     },
     "6285822070318@s.whatsapp.net": {
       "jid": "6285822070318@s.whatsapp.net",
@@ -38071,7 +38077,7 @@
     },
     "6283189946644@s.whatsapp.net": {
       "jid": "6283189946644@s.whatsapp.net",
-      "name": "zal str"
+      "name": "all str nope 1"
     },
     "6281460453592@s.whatsapp.net": {
       "jid": "6281460453592@s.whatsapp.net",
@@ -38239,7 +38245,7 @@
     },
     "6285183837714@s.whatsapp.net": {
       "jid": "6285183837714@s.whatsapp.net",
-      "name": "deff"
+      "name": "."
     },
     "6283153750496@s.whatsapp.net": {
       "jid": "6283153750496@s.whatsapp.net",
@@ -38491,7 +38497,7 @@
     },
     "6287887790685@s.whatsapp.net": {
       "jid": "6287887790685@s.whatsapp.net",
-      "name": "JB BLEDEK STORE"
+      "name": "~"
     },
     "6285198344264@s.whatsapp.net": {
       "jid": "6285198344264@s.whatsapp.net",
@@ -38563,7 +38569,7 @@
     },
     "6283867807584@s.whatsapp.net": {
       "jid": "6283867807584@s.whatsapp.net",
-      "name": "JUAL GP/CASH DDS"
+      "name": "DDSSTORE"
     },
     "62881037576933@s.whatsapp.net": {
       "jid": "62881037576933@s.whatsapp.net",
@@ -38755,7 +38761,7 @@
     },
     "6281990848214@s.whatsapp.net": {
       "jid": "6281990848214@s.whatsapp.net",
-      "name": "NO CADANGAN ALIF STORE CELL"
+      "name": "NO CADANGAN"
     },
     "6287878622715@s.whatsapp.net": {
       "jid": "6287878622715@s.whatsapp.net",
@@ -38919,7 +38925,7 @@
     },
     "6285776277045@s.whatsapp.net": {
       "jid": "6285776277045@s.whatsapp.net",
-      "name": "𝐏𝐫𝐢𝐧𝐜𝐞 𝐕𝐢𝐧𝐳𝟒𝐲𝐨𝐮"
+      "name": "𝐏𝐫𝐢𝐧𝐜𝐞 𝐕𝐢𝐧𝐳𝟒𝐲𝐨𝐮 👑"
     },
     "6285183541394@s.whatsapp.net": {
       "jid": "6285183541394@s.whatsapp.net",
@@ -38943,7 +38949,7 @@
     },
     "628132734774@s.whatsapp.net": {
       "jid": "628132734774@s.whatsapp.net",
-      "name": "𝑰𝑵𝑰 𝑩𝑶𝑻 | 𝑱𝑨𝑵 𝑫𝑰 𝑪𝑯𝑨𝑻"
+      "name": "Chat/Call Bot Denda"
     },
     "6285122653594@s.whatsapp.net": {
       "jid": "6285122653594@s.whatsapp.net",
@@ -39231,11 +39237,11 @@
     },
     "6283141267478@s.whatsapp.net": {
       "jid": "6283141267478@s.whatsapp.net",
-      "name": "— 𝟏𝟕ama lucuk"
+      "name": "— 𝟏𝟕amacy||𝐌𝐖𝐏||𝐕𝐓𝐀||𝐒𝐆"
     },
     "6283189385910@s.whatsapp.net": {
       "jid": "6283189385910@s.whatsapp.net",
-      "name": "yazzz"
+      "name": "yazzzizdddddddd capee kenon"
     },
     "6285177604126@s.whatsapp.net": {
       "jid": "6285177604126@s.whatsapp.net",
@@ -39283,7 +39289,7 @@
     },
     "628214399128@s.whatsapp.net": {
       "jid": "628214399128@s.whatsapp.net",
-      "name": "I'm bey"
+      "name": "beyey"
     },
     "628561723842@s.whatsapp.net": {
       "jid": "628561723842@s.whatsapp.net",
@@ -39439,7 +39445,7 @@
     },
     "6285785017021@s.whatsapp.net": {
       "jid": "6285785017021@s.whatsapp.net",
-      "name": "LIPZ ZY NICHOL"
+      "name": "LIPZ ZY STURR"
     },
     "6285941843070@s.whatsapp.net": {
       "jid": "6285941843070@s.whatsapp.net",
@@ -39675,7 +39681,7 @@
     },
     "6283185118454@s.whatsapp.net": {
       "jid": "6283185118454@s.whatsapp.net",
-      "name": "~༎R4ZK STORE REG JATIM༎"
+      "name": "~༎R4ZK STORE REG JATIM༎꫞"
     },
     "6288230158474@s.whatsapp.net": {
       "jid": "6288230158474@s.whatsapp.net",
@@ -39799,7 +39805,7 @@
     },
     "6283844435118@s.whatsapp.net": {
       "jid": "6283844435118@s.whatsapp.net",
-      "name": "💐~Celyn~💐🤏🏻"
+      "name": "🐱💐~kucing imoet~💐🐱🤏🏻"
     },
     "6287890323276@s.whatsapp.net": {
       "jid": "6287890323276@s.whatsapp.net",
@@ -40195,7 +40201,7 @@
     },
     "6285122087628@s.whatsapp.net": {
       "jid": "6285122087628@s.whatsapp.net",
-      "name": "milkuat👽"
+      "name": "didikanflado👿"
     },
     "6285839066564@s.whatsapp.net": {
       "jid": "6285839066564@s.whatsapp.net",
@@ -40435,7 +40441,7 @@
     },
     "6285129802594@s.whatsapp.net": {
       "jid": "6285129802594@s.whatsapp.net",
-      "name": "擦𝐋𝐂̧𝐘 ⸸𝟐𝟔 𝝰ׁ𝗺ׅ֟𝗲ׁ𝗹𝗹 𝗴ꤠ𝗿۪𝗴𝗲ׁꤠ𝘂𝘀ׅ @𝙻𝚂𝚃𝙲 #𝐌𝐂 /⸸𝐋𝟐𝟔"
+      "name": "擦𝐋𝐂̧𝐘 ⸸𝟐𝟔 𝝰ׁ𝗺ׅ֟𝗲ׁ𝗹𝗹 𝗴ꤠ𝗿۪𝗴𝗲ׁꤠ𝘂𝘀 ⸸𝐋𝟐𝟔ׅ @𝙻𝚂𝚃𝙲 #𝐌𝐂"
     },
     "6283832524915@s.whatsapp.net": {
       "jid": "6283832524915@s.whatsapp.net",
@@ -40515,7 +40521,7 @@
     },
     "6281549176183@s.whatsapp.net": {
       "jid": "6281549176183@s.whatsapp.net",
-      "name": "vanrorr' [ offv ]"
+      "name": "𝘃𝗮𝗻 𝗵𝗶𝗶"
     },
     "628136291679@s.whatsapp.net": {
       "jid": "628136291679@s.whatsapp.net",
@@ -40771,7 +40777,7 @@
     },
     "62882008090239@s.whatsapp.net": {
       "jid": "62882008090239@s.whatsapp.net",
-      "name": "rikjuu"
+      "name": "Ggg"
     },
     "62881023732953@s.whatsapp.net": {
       "jid": "62881023732953@s.whatsapp.net",
@@ -40943,7 +40949,7 @@
     },
     "6285814052184@s.whatsapp.net": {
       "jid": "6285814052184@s.whatsapp.net",
-      "name": "bimzslowly"
+      "name": "satriastr."
     },
     "6285182832723@s.whatsapp.net": {
       "jid": "6285182832723@s.whatsapp.net",
@@ -40979,7 +40985,7 @@
     },
     "6287881283002@s.whatsapp.net": {
       "jid": "6287881283002@s.whatsapp.net",
-      "name": "sya_#𝟖𝟎𝟖#"
+      "name": "sya_#𝟖𝟎𝟖#||𝐍𝐎𝐗𝐒𝐈𝐒||"
     },
     "6281919927911@s.whatsapp.net": {
       "jid": "6281919927911@s.whatsapp.net",
@@ -40987,7 +40993,7 @@
     },
     "6283167228992@s.whatsapp.net": {
       "jid": "6283167228992@s.whatsapp.net",
-      "name": "mell"
+      "name": "naii"
     },
     "6281214620131@s.whatsapp.net": {
       "jid": "6281214620131@s.whatsapp.net",
@@ -41003,7 +41009,7 @@
     },
     "6283119155260@s.whatsapp.net": {
       "jid": "6283119155260@s.whatsapp.net",
-      "name": "??"
+      "name": "WA UTMA REL STUR"
     },
     "6281930043536@s.whatsapp.net": {
       "jid": "6281930043536@s.whatsapp.net",
@@ -41083,7 +41089,7 @@
     },
     "6285196414077@s.whatsapp.net": {
       "jid": "6285196414077@s.whatsapp.net",
-      "name": "Veja o status"
+      "name": "GAME GRATIS 2026"
     },
     "62882021463972@s.whatsapp.net": {
       "jid": "62882021463972@s.whatsapp.net",
@@ -41371,7 +41377,7 @@
     },
     "601111621539@s.whatsapp.net": {
       "jid": "601111621539@s.whatsapp.net",
-      "name": "yan || promoter"
+      "name": "ini bot no pm"
     },
     "6285137256941@s.whatsapp.net": {
       "jid": "6285137256941@s.whatsapp.net",
@@ -41775,7 +41781,7 @@
     },
     "6285864942765@s.whatsapp.net": {
       "jid": "6285864942765@s.whatsapp.net",
-      "name": "Kamiel"
+      "name": "kamiel"
     },
     "6285832857301@s.whatsapp.net": {
       "jid": "6285832857301@s.whatsapp.net",
@@ -41863,7 +41869,7 @@
     },
     "62882008721355@s.whatsapp.net": {
       "jid": "62882008721355@s.whatsapp.net",
-      "name": "SenzKec🤓"
+      "name": "senz"
     },
     "6285643625464@s.whatsapp.net": {
       "jid": "6285643625464@s.whatsapp.net",
@@ -41983,7 +41989,7 @@
     },
     "6281546439330@s.whatsapp.net": {
       "jid": "6281546439330@s.whatsapp.net",
-      "name": "tafta"
+      "name": "TAFTAxACAF8x"
     },
     "6282374611350@s.whatsapp.net": {
       "jid": "6282374611350@s.whatsapp.net",
@@ -42411,7 +42417,7 @@
     },
     "6289525997510@s.whatsapp.net": {
       "jid": "6289525997510@s.whatsapp.net",
-      "name": "cinta cilok kuah,🍄"
+      "name": ".."
     },
     "6283861420240@s.whatsapp.net": {
       "jid": "6283861420240@s.whatsapp.net",
@@ -42627,7 +42633,7 @@
     },
     "6287768581766@s.whatsapp.net": {
       "jid": "6287768581766@s.whatsapp.net",
-      "name": "k3yc14"
+      "name": "nailong"
     },
     "6283179545638@s.whatsapp.net": {
       "jid": "6283179545638@s.whatsapp.net",
@@ -43087,7 +43093,7 @@
     },
     "6288905680789@s.whatsapp.net": {
       "jid": "6288905680789@s.whatsapp.net",
-      "name": "RIZZ NOPE UTAMA"
+      "name": "joki🆙"
     },
     "6285648803278@s.whatsapp.net": {
       "jid": "6285648803278@s.whatsapp.net",
@@ -43139,7 +43145,7 @@
     },
     "6287864311650@s.whatsapp.net": {
       "jid": "6287864311650@s.whatsapp.net",
-      "name": "𝐌𝐎𝐌𝐘 𝐑𝐈𝐍𝐃𝐈🪽"
+      "name": "𝐑𝐈𝐍𝐃𝐈🦅"
     },
     "62895365435766@s.whatsapp.net": {
       "jid": "62895365435766@s.whatsapp.net",
@@ -43223,7 +43229,7 @@
     },
     "6282367934014@s.whatsapp.net": {
       "jid": "6282367934014@s.whatsapp.net",
-      "name": "Brian Nope 2"
+      "name": "Brian"
     },
     "62895626704896@s.whatsapp.net": {
       "jid": "62895626704896@s.whatsapp.net",
@@ -43283,7 +43289,7 @@
     },
     "6285784271878@s.whatsapp.net": {
       "jid": "6285784271878@s.whatsapp.net",
-      "name": "Denzz"
+      "name": "Xyraaa"
     },
     "6285861553421@s.whatsapp.net": {
       "jid": "6285861553421@s.whatsapp.net",
@@ -43703,7 +43709,7 @@
     },
     "6281273690553@s.whatsapp.net": {
       "jid": "6281273690553@s.whatsapp.net",
-      "name": "Free"
+      "name": "Gianz Storee"
     },
     "6288216695487@s.whatsapp.net": {
       "jid": "6288216695487@s.whatsapp.net",
@@ -43863,7 +43869,7 @@
     },
     "6282333962407@s.whatsapp.net": {
       "jid": "6282333962407@s.whatsapp.net",
-      "name": "niss c1 kenon"
+      "name": "niss"
     },
     "6285545047399@s.whatsapp.net": {
       "jid": "6285545047399@s.whatsapp.net",
@@ -44211,7 +44217,7 @@
     },
     "6285184675299@s.whatsapp.net": {
       "jid": "6285184675299@s.whatsapp.net",
-      "name": "Realzxy store"
+      "name": "089657895432"
     },
     "6285113290432@s.whatsapp.net": {
       "jid": "6285113290432@s.whatsapp.net",
@@ -44235,7 +44241,7 @@
     },
     "6283172255796@s.whatsapp.net": {
       "jid": "6283172255796@s.whatsapp.net",
-      "name": "RYZZEX MARKET NEW"
+      "name": "Yanzz Store"
     },
     "6285862217824@s.whatsapp.net": {
       "jid": "6285862217824@s.whatsapp.net",
@@ -44387,7 +44393,7 @@
     },
     "6283897261722@s.whatsapp.net": {
       "jid": "6283897261722@s.whatsapp.net",
-      "name": "Ebixx"
+      "name": "Ebixx Official Region [ SULUT ]"
     },
     "6285175440568@s.whatsapp.net": {
       "jid": "6285175440568@s.whatsapp.net",
@@ -44587,7 +44593,7 @@
     },
     "628136297381@s.whatsapp.net": {
       "jid": "628136297381@s.whatsapp.net",
-      "name": "bban"
+      "name": "kenzz"
     },
     "6288706370967@s.whatsapp.net": {
       "jid": "6288706370967@s.whatsapp.net",
@@ -44787,7 +44793,7 @@
     },
     "6285922171148@s.whatsapp.net": {
       "jid": "6285922171148@s.whatsapp.net",
-      "name": "iyann sturr🇯🇵"
+      "name": "iyan sturr🇯🇵🇨🇵"
     },
     "6285649527425@s.whatsapp.net": {
       "jid": "6285649527425@s.whatsapp.net",
@@ -45463,7 +45469,7 @@
     },
     "6285182950067@s.whatsapp.net": {
       "jid": "6285182950067@s.whatsapp.net",
-      "name": "k"
+      "name": "Evan"
     },
     "6283834540350@s.whatsapp.net": {
       "jid": "6283834540350@s.whatsapp.net",
@@ -45671,7 +45677,7 @@
     },
     "6285260017223@s.whatsapp.net": {
       "jid": "6285260017223@s.whatsapp.net",
-      "name": "Ryuki design"
+      "name": "JASHER GB"
     },
     "6283167444992@s.whatsapp.net": {
       "jid": "6283167444992@s.whatsapp.net",
@@ -45859,7 +45865,7 @@
     },
     "6283865225809@s.whatsapp.net": {
       "jid": "6283865225809@s.whatsapp.net",
-      "name": "gtw"
+      "name": "akuuuu putriii 💕"
     },
     "6285117162003@s.whatsapp.net": {
       "jid": "6285117162003@s.whatsapp.net",
@@ -45911,7 +45917,7 @@
     },
     "6283197437368@s.whatsapp.net": {
       "jid": "6283197437368@s.whatsapp.net",
-      "name": "flado"
+      "name": "NEZTA | TBR"
     },
     "6281252660563@s.whatsapp.net": {
       "jid": "6281252660563@s.whatsapp.net",
@@ -46371,7 +46377,7 @@
     },
     "6281400377618@s.whatsapp.net": {
       "jid": "6281400377618@s.whatsapp.net",
-      "name": "rika"
+      "name": "rikaimup"
     },
     "6287890323592@s.whatsapp.net": {
       "jid": "6287890323592@s.whatsapp.net",
@@ -46748,6 +46754,3402 @@
     "6283133612533@s.whatsapp.net": {
       "jid": "6283133612533@s.whatsapp.net",
       "name": "HAIKAL STORE REAL"
+    },
+    "6287740836377@s.whatsapp.net": {
+      "jid": "6287740836377@s.whatsapp.net",
+      "name": "F4ndi"
+    },
+    "6285954612823@s.whatsapp.net": {
+      "jid": "6285954612823@s.whatsapp.net",
+      "name": "⸕ 𝒫𝓊𝓉𝓇𝒶 メ𝕯𝖌||𝐂𝐈𝐓𝐄𝐍𝟗"
+    },
+    "6287746270400@s.whatsapp.net": {
+      "jid": "6287746270400@s.whatsapp.net",
+      "name": "Roy"
+    },
+    "6285380064607@s.whatsapp.net": {
+      "jid": "6285380064607@s.whatsapp.net",
+      "name": "Olivia market"
+    },
+    "6281220860570@s.whatsapp.net": {
+      "jid": "6281220860570@s.whatsapp.net",
+      "name": "DAFZZ STORE"
+    },
+    "6283851504294@s.whatsapp.net": {
+      "jid": "6283851504294@s.whatsapp.net",
+      "name": "౨ৎkαααααααα⋆. 𐙚 ˚"
+    },
+    "6285697002578@s.whatsapp.net": {
+      "jid": "6285697002578@s.whatsapp.net",
+      "name": "daa"
+    },
+    "6285761416241@s.whatsapp.net": {
+      "jid": "6285761416241@s.whatsapp.net",
+      "name": "N."
+    },
+    "6281545429882@s.whatsapp.net": {
+      "jid": "6281545429882@s.whatsapp.net",
+      "name": "rf"
+    },
+    "62895630522716@s.whatsapp.net": {
+      "jid": "62895630522716@s.whatsapp.net",
+      "name": "~az"
+    },
+    "6283196146956@s.whatsapp.net": {
+      "jid": "6283196146956@s.whatsapp.net",
+      "name": "~lixz=adli"
+    },
+    "6285769526557@s.whatsapp.net": {
+      "jid": "6285769526557@s.whatsapp.net",
+      "name": "lzzy"
+    },
+    "6282326817020@s.whatsapp.net": {
+      "jid": "6282326817020@s.whatsapp.net",
+      "name": "𝗷𝗲𝗮𝗻𝗮 𝗴𝗲𝗽𝗿𝗲𝗸"
+    },
+    "6285778143928@s.whatsapp.net": {
+      "jid": "6285778143928@s.whatsapp.net",
+      "name": "KENO JB"
+    },
+    "62895329630272@s.whatsapp.net": {
+      "jid": "62895329630272@s.whatsapp.net",
+      "name": "bear"
+    },
+    "6283173706180@s.whatsapp.net": {
+      "jid": "6283173706180@s.whatsapp.net",
+      "name": "yaa"
+    },
+    "6282299931092@s.whatsapp.net": {
+      "jid": "6282299931092@s.whatsapp.net",
+      "name": "𝐍𝐀𝐓𝐇"
+    },
+    "6281919521418@s.whatsapp.net": {
+      "jid": "6281919521418@s.whatsapp.net",
+      "name": "Arhaz. #hiatus"
+    },
+    "6285185791735@s.whatsapp.net": {
+      "jid": "6285185791735@s.whatsapp.net",
+      "name": "koncet"
+    },
+    "6283898532627@s.whatsapp.net": {
+      "jid": "6283898532627@s.whatsapp.net",
+      "name": "ilopican."
+    },
+    "6289504935948@s.whatsapp.net": {
+      "jid": "6289504935948@s.whatsapp.net",
+      "name": "𝐀𝐍𝐘𝐀/𝐑𝐎𝐑/𝐍𝐎𝐋𝐄𝐏/𝐅𝐎𝐑/𝐂𝐀𝐒𝐓𝐔𝐒"
+    },
+    "6285882909974@s.whatsapp.net": {
+      "jid": "6285882909974@s.whatsapp.net",
+      "name": "Liens"
+    },
+    "6281770556073@s.whatsapp.net": {
+      "jid": "6281770556073@s.whatsapp.net",
+      "name": "L Jung Gold"
+    },
+    "6283160535060@s.whatsapp.net": {
+      "jid": "6283160535060@s.whatsapp.net",
+      "name": "AL"
+    },
+    "6285199319322@s.whatsapp.net": {
+      "jid": "6285199319322@s.whatsapp.net",
+      "name": "HubnerKeiry"
+    },
+    "6281356953376@s.whatsapp.net": {
+      "jid": "6281356953376@s.whatsapp.net",
+      "name": "Handa✨🤍"
+    },
+    "6285124964882@s.whatsapp.net": {
+      "jid": "6285124964882@s.whatsapp.net",
+      "name": "shaguftaz[3068]"
+    },
+    "6285751649692@s.whatsapp.net": {
+      "jid": "6285751649692@s.whatsapp.net",
+      "name": "Arham XIIIIIIIIIII.3"
+    },
+    "6285167338593@s.whatsapp.net": {
+      "jid": "6285167338593@s.whatsapp.net",
+      "name": "fikss young"
+    },
+    "6285693094115@s.whatsapp.net": {
+      "jid": "6285693094115@s.whatsapp.net",
+      "name": "traaaa7_"
+    },
+    "62895411008208@s.whatsapp.net": {
+      "jid": "62895411008208@s.whatsapp.net",
+      "name": "Gyurodesu!!"
+    },
+    "6285198281438@s.whatsapp.net": {
+      "jid": "6285198281438@s.whatsapp.net",
+      "name": "eagle"
+    },
+    "6289603827832@s.whatsapp.net": {
+      "jid": "6289603827832@s.whatsapp.net",
+      "name": "🤤 sasa 🤤"
+    },
+    "6285828381460@s.whatsapp.net": {
+      "jid": "6285828381460@s.whatsapp.net",
+      "name": "Santay24"
+    },
+    "6283847151859@s.whatsapp.net": {
+      "jid": "6283847151859@s.whatsapp.net",
+      "name": "morphahs"
+    },
+    "6285187071924@s.whatsapp.net": {
+      "jid": "6285187071924@s.whatsapp.net",
+      "name": "cèllo"
+    },
+    "6281259846639@s.whatsapp.net": {
+      "jid": "6281259846639@s.whatsapp.net",
+      "name": "shaà"
+    },
+    "6285188024993@s.whatsapp.net": {
+      "jid": "6285188024993@s.whatsapp.net",
+      "name": "kepo"
+    },
+    "6282337162707@s.whatsapp.net": {
+      "jid": "6282337162707@s.whatsapp.net",
+      "name": "Dioo"
+    },
+    "249114546011@s.whatsapp.net": {
+      "jid": "249114546011@s.whatsapp.net",
+      "name": "idfc, lynciαα"
+    },
+    "6287738782937@s.whatsapp.net": {
+      "jid": "6287738782937@s.whatsapp.net",
+      "name": "th S4tchi"
+    },
+    "6285187518795@s.whatsapp.net": {
+      "jid": "6285187518795@s.whatsapp.net",
+      "name": "ini bot don't pm!"
+    },
+    "6289654615425@s.whatsapp.net": {
+      "jid": "6289654615425@s.whatsapp.net",
+      "name": "Clara"
+    },
+    "62895329040588@s.whatsapp.net": {
+      "jid": "62895329040588@s.whatsapp.net",
+      "name": "~someone Capek Kenon"
+    },
+    "6282372159440@s.whatsapp.net": {
+      "jid": "6282372159440@s.whatsapp.net",
+      "name": "leo"
+    },
+    "6285707665450@s.whatsapp.net": {
+      "jid": "6285707665450@s.whatsapp.net",
+      "name": "gracece15"
+    },
+    "6285366438121@s.whatsapp.net": {
+      "jid": "6285366438121@s.whatsapp.net",
+      "name": "iluvxml"
+    },
+    "6281934482278@s.whatsapp.net": {
+      "jid": "6281934482278@s.whatsapp.net",
+      "name": "$"
+    },
+    "6281949358525@s.whatsapp.net": {
+      "jid": "6281949358525@s.whatsapp.net",
+      "name": "?zaky"
+    },
+    "6282124718741@s.whatsapp.net": {
+      "jid": "6282124718741@s.whatsapp.net",
+      "name": "💕"
+    },
+    "6283846962539@s.whatsapp.net": {
+      "jid": "6283846962539@s.whatsapp.net",
+      "name": "Dii"
+    },
+    "6283832091781@s.whatsapp.net": {
+      "jid": "6283832091781@s.whatsapp.net",
+      "name": "Zikir"
+    },
+    "6281959258331@s.whatsapp.net": {
+      "jid": "6281959258331@s.whatsapp.net",
+      "name": "NO UTAMA ADMIN FAELZ REAL"
+    },
+    "6288224230525@s.whatsapp.net": {
+      "jid": "6288224230525@s.whatsapp.net",
+      "name": "faryy_"
+    },
+    "6285837765182@s.whatsapp.net": {
+      "jid": "6285837765182@s.whatsapp.net",
+      "name": "TNZX STORE"
+    },
+    "628978559135@s.whatsapp.net": {
+      "jid": "628978559135@s.whatsapp.net",
+      "name": "eh nona e sio"
+    },
+    "6282342266809@s.whatsapp.net": {
+      "jid": "6282342266809@s.whatsapp.net",
+      "name": "Kael."
+    },
+    "6288279232403@s.whatsapp.net": {
+      "jid": "6288279232403@s.whatsapp.net",
+      "name": "𝘢𝘥𝘮𝘪𝘯 𝘻𝘢𝘯𝘯 𝘱𝘦𝘯𝘨𝘦𝘯 𝘱𝘦𝘯𝘴𝘪"
+    },
+    "6282190734871@s.whatsapp.net": {
+      "jid": "6282190734871@s.whatsapp.net",
+      "name": "alynn | 𝐂𝟗 | 𝐎𝐌𝐆 | 𝐂𝐒𝐓𝐒 | 𝐑𝐎𝐑 | 𝐁𝐑𝐆𝐒"
+    },
+    "6285715227983@s.whatsapp.net": {
+      "jid": "6285715227983@s.whatsapp.net",
+      "name": "sedang of"
+    },
+    "6285824555224@s.whatsapp.net": {
+      "jid": "6285824555224@s.whatsapp.net",
+      "name": "arka"
+    },
+    "6283189095643@s.whatsapp.net": {
+      "jid": "6283189095643@s.whatsapp.net",
+      "name": "toko kelontong"
+    },
+    "6283842123378@s.whatsapp.net": {
+      "jid": "6283842123378@s.whatsapp.net",
+      "name": "."
+    },
+    "6282229015507@s.whatsapp.net": {
+      "jid": "6282229015507@s.whatsapp.net",
+      "name": "a.n.j.i.n.g"
+    },
+    "62881025416879@s.whatsapp.net": {
+      "jid": "62881025416879@s.whatsapp.net",
+      "name": "siaz"
+    },
+    "6285800704691@s.whatsapp.net": {
+      "jid": "6285800704691@s.whatsapp.net",
+      "name": "stevani"
+    },
+    "6282375671076@s.whatsapp.net": {
+      "jid": "6282375671076@s.whatsapp.net",
+      "name": "ODIR FTCS"
+    },
+    "6285183753213@s.whatsapp.net": {
+      "jid": "6285183753213@s.whatsapp.net",
+      "name": "👉👈"
+    },
+    "6285136606117@s.whatsapp.net": {
+      "jid": "6285136606117@s.whatsapp.net",
+      "name": "♡゙ 𓏻 ℘:𝗋𝖾𝘵𝘵𝗒 𝓒ꪱ๋ყყɑ  ׅ 🍅🐟"
+    },
+    "628814910160@s.whatsapp.net": {
+      "jid": "628814910160@s.whatsapp.net",
+      "name": "dika market bjn"
+    },
+    "6285231510526@s.whatsapp.net": {
+      "jid": "6285231510526@s.whatsapp.net",
+      "name": "botby fanxz"
+    },
+    "6285771267931@s.whatsapp.net": {
+      "jid": "6285771267931@s.whatsapp.net",
+      "name": "Faqih"
+    },
+    "6285774090810@s.whatsapp.net": {
+      "jid": "6285774090810@s.whatsapp.net",
+      "name": "fladoo15"
+    },
+    "6289673134439@s.whatsapp.net": {
+      "jid": "6289673134439@s.whatsapp.net",
+      "name": "nyamm"
+    },
+    "6285704657198@s.whatsapp.net": {
+      "jid": "6285704657198@s.whatsapp.net",
+      "name": "."
+    },
+    "6285752185197@s.whatsapp.net": {
+      "jid": "6285752185197@s.whatsapp.net",
+      "name": "kennSTR [ 5197 ]"
+    },
+    "6281534004773@s.whatsapp.net": {
+      "jid": "6281534004773@s.whatsapp.net",
+      "name": "cyelstr opn jsher"
+    },
+    "6285143229581@s.whatsapp.net": {
+      "jid": "6285143229581@s.whatsapp.net",
+      "name": "Linn"
+    },
+    "6285136114632@s.whatsapp.net": {
+      "jid": "6285136114632@s.whatsapp.net",
+      "name": "Kenzio Zavriel R."
+    },
+    "6285824263156@s.whatsapp.net": {
+      "jid": "6285824263156@s.whatsapp.net",
+      "name": "Na"
+    },
+    "6285814782702@s.whatsapp.net": {
+      "jid": "6285814782702@s.whatsapp.net",
+      "name": "Dika Rajin Kenon"
+    },
+    "6285792350851@s.whatsapp.net": {
+      "jid": "6285792350851@s.whatsapp.net",
+      "name": "𝖆𝖑𝖆𝖒_𝖘𝖒𝖘𝖙𝖆𝖆"
+    },
+    "62882000013713@s.whatsapp.net": {
+      "jid": "62882000013713@s.whatsapp.net",
+      "name": "CIWA STORE"
+    },
+    "628213142180@s.whatsapp.net": {
+      "jid": "628213142180@s.whatsapp.net",
+      "name": "WynSastra"
+    },
+    "6283180079867@s.whatsapp.net": {
+      "jid": "6283180079867@s.whatsapp.net",
+      "name": "sisil"
+    },
+    "6285828657282@s.whatsapp.net": {
+      "jid": "6285828657282@s.whatsapp.net",
+      "name": "Nopall storee"
+    },
+    "6283120960196@s.whatsapp.net": {
+      "jid": "6283120960196@s.whatsapp.net",
+      "name": "ini bot jpm , no pm ok!"
+    },
+    "62882007886804@s.whatsapp.net": {
+      "jid": "62882007886804@s.whatsapp.net",
+      "name": "Cyaa store#4u"
+    },
+    "628811252818@s.whatsapp.net": {
+      "jid": "628811252818@s.whatsapp.net",
+      "name": "Tz_kiww,"
+    },
+    "6283121380629@s.whatsapp.net": {
+      "jid": "6283121380629@s.whatsapp.net",
+      "name": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+    },
+    "628985029017@s.whatsapp.net": {
+      "jid": "628985029017@s.whatsapp.net",
+      "name": "Rév yóurfáv"
+    },
+    "6285175040271@s.whatsapp.net": {
+      "jid": "6285175040271@s.whatsapp.net",
+      "name": "FIFZz"
+    },
+    "6285707726286@s.whatsapp.net": {
+      "jid": "6285707726286@s.whatsapp.net",
+      "name": "Yuuta"
+    },
+    "6285743689112@s.whatsapp.net": {
+      "jid": "6285743689112@s.whatsapp.net",
+      "name": "nazxy"
+    },
+    "62895703224945@s.whatsapp.net": {
+      "jid": "62895703224945@s.whatsapp.net",
+      "name": "Rara PT SJA GLOBAL COSMINDO"
+    },
+    "6281263215716@s.whatsapp.net": {
+      "jid": "6281263215716@s.whatsapp.net",
+      "name": "al"
+    },
+    "6283178057157@s.whatsapp.net": {
+      "jid": "6283178057157@s.whatsapp.net",
+      "name": "alek"
+    },
+    "6285881463452@s.whatsapp.net": {
+      "jid": "6285881463452@s.whatsapp.net",
+      "name": "Dan"
+    },
+    "6288991402041@s.whatsapp.net": {
+      "jid": "6288991402041@s.whatsapp.net",
+      "name": "DIKZ JOKI ELIT"
+    },
+    "6281973518705@s.whatsapp.net": {
+      "jid": "6281973518705@s.whatsapp.net",
+      "name": "raastr"
+    },
+    "62882005581464@s.whatsapp.net": {
+      "jid": "62882005581464@s.whatsapp.net",
+      "name": "ya"
+    },
+    "6288973250175@s.whatsapp.net": {
+      "jid": "6288973250175@s.whatsapp.net",
+      "name": "araa👅"
+    },
+    "62895634716113@s.whatsapp.net": {
+      "jid": "62895634716113@s.whatsapp.net",
+      "name": "tengku"
+    },
+    "6288804196406@s.whatsapp.net": {
+      "jid": "6288804196406@s.whatsapp.net",
+      "name": "qis || 𝐂𝑨𝑺𝑻𝐔𝑆/𝑹𝐎𝑅/𝑪𝑨𝑻𝑨/𝐶9"
+    },
+    "62881011622046@s.whatsapp.net": {
+      "jid": "62881011622046@s.whatsapp.net",
+      "name": "TOKOWAPP PUSAT ECER"
+    },
+    "6282227853916@s.whatsapp.net": {
+      "jid": "6282227853916@s.whatsapp.net",
+      "name": "rahasia..........😬"
+    },
+    "62882007293643@s.whatsapp.net": {
+      "jid": "62882007293643@s.whatsapp.net",
+      "name": "hann :p"
+    },
+    "6283825795251@s.whatsapp.net": {
+      "jid": "6283825795251@s.whatsapp.net",
+      "name": "HARZ STR"
+    },
+    "6285126403039@s.whatsapp.net": {
+      "jid": "6285126403039@s.whatsapp.net",
+      "name": "desss"
+    },
+    "6283872967604@s.whatsapp.net": {
+      "jid": "6283872967604@s.whatsapp.net",
+      "name": "dapa ni dek"
+    },
+    "6281376945360@s.whatsapp.net": {
+      "jid": "6281376945360@s.whatsapp.net",
+      "name": "idan"
+    },
+    "6283137721950@s.whatsapp.net": {
+      "jid": "6283137721950@s.whatsapp.net",
+      "name": "."
+    },
+    "6283191435216@s.whatsapp.net": {
+      "jid": "6283191435216@s.whatsapp.net",
+      "name": "nanaa store — all apk prem mulai 500p, sewabot, top up, kebsos, jpm jasher"
+    },
+    "6285196668424@s.whatsapp.net": {
+      "jid": "6285196668424@s.whatsapp.net",
+      "name": "Ryan Stur"
+    },
+    "6287844423076@s.whatsapp.net": {
+      "jid": "6287844423076@s.whatsapp.net",
+      "name": "Putra"
+    },
+    "6282225521734@s.whatsapp.net": {
+      "jid": "6282225521734@s.whatsapp.net",
+      "name": "Who?"
+    },
+    "6289501869404@s.whatsapp.net": {
+      "jid": "6289501869404@s.whatsapp.net",
+      "name": "~★Jei"
+    },
+    "6285808943984@s.whatsapp.net": {
+      "jid": "6285808943984@s.whatsapp.net",
+      "name": "Udang Keju"
+    },
+    "6285284212271@s.whatsapp.net": {
+      "jid": "6285284212271@s.whatsapp.net",
+      "name": "loneĺiness??"
+    },
+    "6283897764046@s.whatsapp.net": {
+      "jid": "6283897764046@s.whatsapp.net",
+      "name": "~"
+    },
+    "6285269296301@s.whatsapp.net": {
+      "jid": "6285269296301@s.whatsapp.net",
+      "name": "CHS"
+    },
+    "6287730543743@s.whatsapp.net": {
+      "jid": "6287730543743@s.whatsapp.net",
+      "name": "Zahara patner amanah"
+    },
+    "628812861002@s.whatsapp.net": {
+      "jid": "628812861002@s.whatsapp.net",
+      "name": "lenzyy"
+    },
+    "6285191931604@s.whatsapp.net": {
+      "jid": "6285191931604@s.whatsapp.net",
+      "name": "[MEX CRULL√]"
+    },
+    "62895622406095@s.whatsapp.net": {
+      "jid": "62895622406095@s.whatsapp.net",
+      "name": "👑👑"
+    },
+    "6287770551394@s.whatsapp.net": {
+      "jid": "6287770551394@s.whatsapp.net",
+      "name": "ankaz4u khusus japost"
+    },
+    "6282173203298@s.whatsapp.net": {
+      "jid": "6282173203298@s.whatsapp.net",
+      "name": "M"
+    },
+    "6285188095821@s.whatsapp.net": {
+      "jid": "6285188095821@s.whatsapp.net",
+      "name": "Reyza Ahmad"
+    },
+    "6283829444939@s.whatsapp.net": {
+      "jid": "6283829444939@s.whatsapp.net",
+      "name": "damn"
+    },
+    "6281958116879@s.whatsapp.net": {
+      "jid": "6281958116879@s.whatsapp.net",
+      "name": "🤣."
+    },
+    "6283153242713@s.whatsapp.net": {
+      "jid": "6283153242713@s.whatsapp.net",
+      "name": "z"
+    },
+    "6281993529652@s.whatsapp.net": {
+      "jid": "6281993529652@s.whatsapp.net",
+      "name": "Vinzy"
+    },
+    "6285211914150@s.whatsapp.net": {
+      "jid": "6285211914150@s.whatsapp.net",
+      "name": "~adalah pokoknya"
+    },
+    "6287791938867@s.whatsapp.net": {
+      "jid": "6287791938867@s.whatsapp.net",
+      "name": "sok"
+    },
+    "6285353864801@s.whatsapp.net": {
+      "jid": "6285353864801@s.whatsapp.net",
+      "name": "izam"
+    },
+    "6285739619912@s.whatsapp.net": {
+      "jid": "6285739619912@s.whatsapp.net",
+      "name": "*---*™¥€✓"
+    },
+    "6287794621192@s.whatsapp.net": {
+      "jid": "6287794621192@s.whatsapp.net",
+      "name": "rxy"
+    },
+    "6282299249303@s.whatsapp.net": {
+      "jid": "6282299249303@s.whatsapp.net",
+      "name": "reja"
+    },
+    "6285182631251@s.whatsapp.net": {
+      "jid": "6285182631251@s.whatsapp.net",
+      "name": "Push Member"
+    },
+    "6282396852372@s.whatsapp.net": {
+      "jid": "6282396852372@s.whatsapp.net",
+      "name": "⸸𝟕𝟖𝟐 𝐕𝐓𝐂 ||ɾαɾαα cαkҽթթ🦖"
+    },
+    "62882000741015@s.whatsapp.net": {
+      "jid": "62882000741015@s.whatsapp.net",
+      "name": "Adnan"
+    },
+    "6283866757710@s.whatsapp.net": {
+      "jid": "6283866757710@s.whatsapp.net",
+      "name": "ana"
+    },
+    "6282114369725@s.whatsapp.net": {
+      "jid": "6282114369725@s.whatsapp.net",
+      "name": "🖕🏻"
+    },
+    "6285815065002@s.whatsapp.net": {
+      "jid": "6285815065002@s.whatsapp.net",
+      "name": "Z4FK!EL★"
+    },
+    "6289531554082@s.whatsapp.net": {
+      "jid": "6289531554082@s.whatsapp.net",
+      "name": "𝐙𝐕𝐑 || 𝐀𝐙𝐍 || imma"
+    },
+    "6281269031367@s.whatsapp.net": {
+      "jid": "6281269031367@s.whatsapp.net",
+      "name": "~~~~~"
+    },
+    "6282379897732@s.whatsapp.net": {
+      "jid": "6282379897732@s.whatsapp.net",
+      "name": "thdgvgn"
+    },
+    "6283128761537@s.whatsapp.net": {
+      "jid": "6283128761537@s.whatsapp.net",
+      "name": "when ya~~"
+    },
+    "6281246191148@s.whatsapp.net": {
+      "jid": "6281246191148@s.whatsapp.net",
+      "name": "★_syipapsss_★"
+    },
+    "6285188575275@s.whatsapp.net": {
+      "jid": "6285188575275@s.whatsapp.net",
+      "name": "."
+    },
+    "6289512915655@s.whatsapp.net": {
+      "jid": "6289512915655@s.whatsapp.net",
+      "name": "."
+    },
+    "62895323401865@s.whatsapp.net": {
+      "jid": "62895323401865@s.whatsapp.net",
+      "name": "rara✭"
+    },
+    "6283821073486@s.whatsapp.net": {
+      "jid": "6283821073486@s.whatsapp.net",
+      "name": "𝐈𝐁𝐍𝐔 𝐒𝐓𝐎𝐑𝐄"
+    },
+    "6285719025695@s.whatsapp.net": {
+      "jid": "6285719025695@s.whatsapp.net",
+      "name": "KAYZENSTORE | SELLER V3"
+    },
+    "6283142400473@s.whatsapp.net": {
+      "jid": "6283142400473@s.whatsapp.net",
+      "name": "fineshyt itu aku gue my😏"
+    },
+    "6285176884659@s.whatsapp.net": {
+      "jid": "6285176884659@s.whatsapp.net",
+      "name": "ari"
+    },
+    "62895639114736@s.whatsapp.net": {
+      "jid": "62895639114736@s.whatsapp.net",
+      "name": "𝒛𝒊𝒂𝒂 𝒔𝒕𝒐𝒓𝒆"
+    },
+    "6285129360810@s.whatsapp.net": {
+      "jid": "6285129360810@s.whatsapp.net",
+      "name": "Frud Npc"
+    },
+    "6283185382451@s.whatsapp.net": {
+      "jid": "6283185382451@s.whatsapp.net",
+      "name": "all suka itachi"
+    },
+    "6289618543078@s.whatsapp.net": {
+      "jid": "6289618543078@s.whatsapp.net",
+      "name": "O4"
+    },
+    "6282285179794@s.whatsapp.net": {
+      "jid": "6282285179794@s.whatsapp.net",
+      "name": "{~ cegil-\"🤏🏻🤏🏻™}"
+    },
+    "6285696489517@s.whatsapp.net": {
+      "jid": "6285696489517@s.whatsapp.net",
+      "name": "watermelon 🍉"
+    },
+    "628888157876@s.whatsapp.net": {
+      "jid": "628888157876@s.whatsapp.net",
+      "name": "dfaaaa"
+    },
+    "6285194857393@s.whatsapp.net": {
+      "jid": "6285194857393@s.whatsapp.net",
+      "name": "🧱🐎🐎🐎"
+    },
+    "6285143555859@s.whatsapp.net": {
+      "jid": "6285143555859@s.whatsapp.net",
+      "name": "Xistt storee"
+    },
+    "6283853932368@s.whatsapp.net": {
+      "jid": "6283853932368@s.whatsapp.net",
+      "name": "~𝙤𝙧𝙜𝙞𝙡 𝙡𝙚𝙥𝙖𝙨!!"
+    },
+    "6285143108053@s.whatsapp.net": {
+      "jid": "6285143108053@s.whatsapp.net",
+      "name": "Vicko"
+    },
+    "6285218185229@s.whatsapp.net": {
+      "jid": "6285218185229@s.whatsapp.net",
+      "name": "idk"
+    },
+    "62857106233811@s.whatsapp.net": {
+      "jid": "62857106233811@s.whatsapp.net",
+      "name": "aris"
+    },
+    "6289675008118@s.whatsapp.net": {
+      "jid": "6289675008118@s.whatsapp.net",
+      "name": "yanzz"
+    },
+    "6285821790692@s.whatsapp.net": {
+      "jid": "6285821790692@s.whatsapp.net",
+      "name": "Gibran "
+    },
+    "6288270857666@s.whatsapp.net": {
+      "jid": "6288270857666@s.whatsapp.net",
+      "name": "👋🏻"
+    },
+    "62895634881436@s.whatsapp.net": {
+      "jid": "62895634881436@s.whatsapp.net",
+      "name": "Al"
+    },
+    "6285196426667@s.whatsapp.net": {
+      "jid": "6285196426667@s.whatsapp.net",
+      "name": "superzet"
+    },
+    "6287776709189@s.whatsapp.net": {
+      "jid": "6287776709189@s.whatsapp.net",
+      "name": "eposs raraa"
+    },
+    "62895321231014@s.whatsapp.net": {
+      "jid": "62895321231014@s.whatsapp.net",
+      "name": "MÂN"
+    },
+    "639269689767@s.whatsapp.net": {
+      "jid": "639269689767@s.whatsapp.net",
+      "name": "bro bre bru"
+    },
+    "6285691057757@s.whatsapp.net": {
+      "jid": "6285691057757@s.whatsapp.net",
+      "name": "~CEO NASA"
+    },
+    "6287895081905@s.whatsapp.net": {
+      "jid": "6287895081905@s.whatsapp.net",
+      "name": "IMMROARRRRR"
+    },
+    "6287863224322@s.whatsapp.net": {
+      "jid": "6287863224322@s.whatsapp.net",
+      "name": "Ganes"
+    },
+    "6288211361258@s.whatsapp.net": {
+      "jid": "6288211361258@s.whatsapp.net",
+      "name": "?"
+    },
+    "6285285791285@s.whatsapp.net": {
+      "jid": "6285285791285@s.whatsapp.net",
+      "name": "?"
+    },
+    "6285640400954@s.whatsapp.net": {
+      "jid": "6285640400954@s.whatsapp.net",
+      "name": "wa utama sarr21"
+    },
+    "6285716588029@s.whatsapp.net": {
+      "jid": "6285716588029@s.whatsapp.net",
+      "name": "Kelczyy"
+    },
+    "6285880583813@s.whatsapp.net": {
+      "jid": "6285880583813@s.whatsapp.net",
+      "name": "T RÈXX 7.5★"
+    },
+    "6283829762032@s.whatsapp.net": {
+      "jid": "6283829762032@s.whatsapp.net",
+      "name": "revan store"
+    },
+    "628132654289@s.whatsapp.net": {
+      "jid": "628132654289@s.whatsapp.net",
+      "name": "hihi"
+    },
+    "6285846145788@s.whatsapp.net": {
+      "jid": "6285846145788@s.whatsapp.net",
+      "name": "wil"
+    },
+    "60173058310@s.whatsapp.net": {
+      "jid": "60173058310@s.whatsapp.net",
+      "name": "ᴿʸˣ࿐̶/ 𝘼𝙓𝐍⁵⁵⁵𝝼𝘅⁶⁶"
+    },
+    "6282339909756@s.whatsapp.net": {
+      "jid": "6282339909756@s.whatsapp.net",
+      "name": "unknown"
+    },
+    "6287892483875@s.whatsapp.net": {
+      "jid": "6287892483875@s.whatsapp.net",
+      "name": "𝒐𝒕𝒂𝒌 𝒅𝒊 𝒑𝒂𝒌𝒆"
+    },
+    "6283854048125@s.whatsapp.net": {
+      "jid": "6283854048125@s.whatsapp.net",
+      "name": "virly imup"
+    },
+    "6285751022166@s.whatsapp.net": {
+      "jid": "6285751022166@s.whatsapp.net",
+      "name": "Rehan ¶:"
+    },
+    "6285238077963@s.whatsapp.net": {
+      "jid": "6285238077963@s.whatsapp.net",
+      "name": "~ wedd?"
+    },
+    "6281957290591@s.whatsapp.net": {
+      "jid": "6281957290591@s.whatsapp.net",
+      "name": "rizqi"
+    },
+    "6289679529226@s.whatsapp.net": {
+      "jid": "6289679529226@s.whatsapp.net",
+      "name": "DANZZZ STORE"
+    },
+    "6285124192676@s.whatsapp.net": {
+      "jid": "6285124192676@s.whatsapp.net",
+      "name": "Fanxz"
+    },
+    "6281299418193@s.whatsapp.net": {
+      "jid": "6281299418193@s.whatsapp.net",
+      "name": "[GOJO • IM HERE] hdh"
+    },
+    "6285879011445@s.whatsapp.net": {
+      "jid": "6285879011445@s.whatsapp.net",
+      "name": "axel8x"
+    },
+    "6285709309741@s.whatsapp.net": {
+      "jid": "6285709309741@s.whatsapp.net",
+      "name": "notwo"
+    },
+    "6285787214453@s.whatsapp.net": {
+      "jid": "6285787214453@s.whatsapp.net",
+      "name": "SPACEMAN BY WIJI"
+    },
+    "6283186562192@s.whatsapp.net": {
+      "jid": "6283186562192@s.whatsapp.net",
+      "name": "Vinz VS Kang Bu"
+    },
+    "6285696200739@s.whatsapp.net": {
+      "jid": "6285696200739@s.whatsapp.net",
+      "name": "💋"
+    },
+    "60193636601@s.whatsapp.net": {
+      "jid": "60193636601@s.whatsapp.net",
+      "name": "niko seja"
+    },
+    "6288219552234@s.whatsapp.net": {
+      "jid": "6288219552234@s.whatsapp.net",
+      "name": "BPL GABRIELLO"
+    },
+    "6283164840305@s.whatsapp.net": {
+      "jid": "6283164840305@s.whatsapp.net",
+      "name": "faizakyasil"
+    },
+    "62895343202325@s.whatsapp.net": {
+      "jid": "62895343202325@s.whatsapp.net",
+      "name": "lyze selain ini clone"
+    },
+    "6283197439950@s.whatsapp.net": {
+      "jid": "6283197439950@s.whatsapp.net",
+      "name": "𝐙𝐎𝐄𝐘||@𝐋𝐒𝐓𝐂||𝟗𝟗𝟗||𝐓𝐄𝐄𝐍𝐒𝟏𝟗"
+    },
+    "6283874325940@s.whatsapp.net": {
+      "jid": "6283874325940@s.whatsapp.net",
+      "name": "."
+    },
+    "6282246783714@s.whatsapp.net": {
+      "jid": "6282246783714@s.whatsapp.net",
+      "name": "p"
+    },
+    "6283184488429@s.whatsapp.net": {
+      "jid": "6283184488429@s.whatsapp.net",
+      "name": "Tryout"
+    },
+    "6283836948010@s.whatsapp.net": {
+      "jid": "6283836948010@s.whatsapp.net",
+      "name": "moon store"
+    },
+    "6285751124037@s.whatsapp.net": {
+      "jid": "6285751124037@s.whatsapp.net",
+      "name": "kanewwrawr own nokesa"
+    },
+    "6282261831688@s.whatsapp.net": {
+      "jid": "6282261831688@s.whatsapp.net",
+      "name": "_dzaahensemm"
+    },
+    "6285179670616@s.whatsapp.net": {
+      "jid": "6285179670616@s.whatsapp.net",
+      "name": "ìxó çãésár"
+    },
+    "6281350905893@s.whatsapp.net": {
+      "jid": "6281350905893@s.whatsapp.net",
+      "name": "—𝟏𝟕 Wanzy"
+    },
+    "6285946475770@s.whatsapp.net": {
+      "jid": "6285946475770@s.whatsapp.net",
+      "name": "Haji lulung"
+    },
+    "6281374025139@s.whatsapp.net": {
+      "jid": "6281374025139@s.whatsapp.net",
+      "name": "Rintzst"
+    },
+    "6283857130101@s.whatsapp.net": {
+      "jid": "6283857130101@s.whatsapp.net",
+      "name": "ZEE RTO 200 TESTI"
+    },
+    "6285864001160@s.whatsapp.net": {
+      "jid": "6285864001160@s.whatsapp.net",
+      "name": "kacang betina"
+    },
+    "6285185729214@s.whatsapp.net": {
+      "jid": "6285185729214@s.whatsapp.net",
+      "name": "Rifael 18 str"
+    },
+    "628817672996@s.whatsapp.net": {
+      "jid": "628817672996@s.whatsapp.net",
+      "name": "brazxz Storee"
+    },
+    "6285786371338@s.whatsapp.net": {
+      "jid": "6285786371338@s.whatsapp.net",
+      "name": "ℤ𝕒𝕗𝕣𝕒𝕟"
+    },
+    "6288227340231@s.whatsapp.net": {
+      "jid": "6288227340231@s.whatsapp.net",
+      "name": "."
+    },
+    "6283174373248@s.whatsapp.net": {
+      "jid": "6283174373248@s.whatsapp.net",
+      "name": "Abdul manai"
+    },
+    "62881012076371@s.whatsapp.net": {
+      "jid": "62881012076371@s.whatsapp.net",
+      "name": "mel"
+    },
+    "6281586115379@s.whatsapp.net": {
+      "jid": "6281586115379@s.whatsapp.net",
+      "name": "l\n~."
+    },
+    "6285823717096@s.whatsapp.net": {
+      "jid": "6285823717096@s.whatsapp.net",
+      "name": "★★★"
+    },
+    "6285697110700@s.whatsapp.net": {
+      "jid": "6285697110700@s.whatsapp.net",
+      "name": "."
+    },
+    "6282317940081@s.whatsapp.net": {
+      "jid": "6282317940081@s.whatsapp.net",
+      "name": "demon str"
+    },
+    "6285775616352@s.whatsapp.net": {
+      "jid": "6285775616352@s.whatsapp.net",
+      "name": "naa"
+    },
+    "6283172791124@s.whatsapp.net": {
+      "jid": "6283172791124@s.whatsapp.net",
+      "name": "kim nca"
+    },
+    "6282318164037@s.whatsapp.net": {
+      "jid": "6282318164037@s.whatsapp.net",
+      "name": "YUTSZZ C1 KENONN"
+    },
+    "6288905079446@s.whatsapp.net": {
+      "jid": "6288905079446@s.whatsapp.net",
+      "name": "Malzzz15"
+    },
+    "6285640816063@s.whatsapp.net": {
+      "jid": "6285640816063@s.whatsapp.net",
+      "name": "Rfpl"
+    },
+    "6283826111602@s.whatsapp.net": {
+      "jid": "6283826111602@s.whatsapp.net",
+      "name": "vinzsture"
+    },
+    "6285822406289@s.whatsapp.net": {
+      "jid": "6285822406289@s.whatsapp.net",
+      "name": "DANZ STORE"
+    },
+    "6282364213919@s.whatsapp.net": {
+      "jid": "6282364213919@s.whatsapp.net",
+      "name": "Z Forr Zioooo"
+    },
+    "62895323563308@s.whatsapp.net": {
+      "jid": "62895323563308@s.whatsapp.net",
+      "name": "playerepep"
+    },
+    "6285720747913@s.whatsapp.net": {
+      "jid": "6285720747913@s.whatsapp.net",
+      "name": "skyy__luvv"
+    },
+    "628888106074@s.whatsapp.net": {
+      "jid": "628888106074@s.whatsapp.net",
+      "name": "𝐈𝐊𝐘/𝐂𝟏𝟗"
+    },
+    "6281274254276@s.whatsapp.net": {
+      "jid": "6281274254276@s.whatsapp.net",
+      "name": "Radja"
+    },
+    "6285771249134@s.whatsapp.net": {
+      "jid": "6285771249134@s.whatsapp.net",
+      "name": "V"
+    },
+    "6283143324805@s.whatsapp.net": {
+      "jid": "6283143324805@s.whatsapp.net",
+      "name": "RAMZZ KHUSUS PHUS MEM"
+    },
+    "60197042713@s.whatsapp.net": {
+      "jid": "60197042713@s.whatsapp.net",
+      "name": "Sh"
+    },
+    "6285812716672@s.whatsapp.net": {
+      "jid": "6285812716672@s.whatsapp.net",
+      "name": "Moyy"
+    },
+    "6285804642280@s.whatsapp.net": {
+      "jid": "6285804642280@s.whatsapp.net",
+      "name": "Faruq"
+    },
+    "6289675279508@s.whatsapp.net": {
+      "jid": "6289675279508@s.whatsapp.net",
+      "name": "Ken"
+    },
+    "6285364183162@s.whatsapp.net": {
+      "jid": "6285364183162@s.whatsapp.net",
+      "name": "karis"
+    },
+    "6282337975102@s.whatsapp.net": {
+      "jid": "6282337975102@s.whatsapp.net",
+      "name": "Kenzooe"
+    },
+    "6283177320050@s.whatsapp.net": {
+      "jid": "6283177320050@s.whatsapp.net",
+      "name": "tramodesadsad"
+    },
+    "6283119852678@s.whatsapp.net": {
+      "jid": "6283119852678@s.whatsapp.net",
+      "name": "pakcay"
+    },
+    "6283825731080@s.whatsapp.net": {
+      "jid": "6283825731080@s.whatsapp.net",
+      "name": "Ranggaa"
+    },
+    "6289698975252@s.whatsapp.net": {
+      "jid": "6289698975252@s.whatsapp.net",
+      "name": "🤪🤪🤪"
+    },
+    "6282382395594@s.whatsapp.net": {
+      "jid": "6282382395594@s.whatsapp.net",
+      "name": "flado15"
+    },
+    "6283146131888@s.whatsapp.net": {
+      "jid": "6283146131888@s.whatsapp.net",
+      "name": "panzz2"
+    },
+    "6282219129621@s.whatsapp.net": {
+      "jid": "6282219129621@s.whatsapp.net",
+      "name": "ky_"
+    },
+    "6285766335463@s.whatsapp.net": {
+      "jid": "6285766335463@s.whatsapp.net",
+      "name": "lal"
+    },
+    "6285168798923@s.whatsapp.net": {
+      "jid": "6285168798923@s.whatsapp.net",
+      "name": "ryuzaki"
+    },
+    "6283185311165@s.whatsapp.net": {
+      "jid": "6283185311165@s.whatsapp.net",
+      "name": "kikiynmrcYy^"
+    },
+    "6285828291159@s.whatsapp.net": {
+      "jid": "6285828291159@s.whatsapp.net",
+      "name": "dzaki"
+    },
+    "6283177696828@s.whatsapp.net": {
+      "jid": "6283177696828@s.whatsapp.net",
+      "name": "han we lah"
+    },
+    "6281392446815@s.whatsapp.net": {
+      "jid": "6281392446815@s.whatsapp.net",
+      "name": "James"
+    },
+    "6285169436079@s.whatsapp.net": {
+      "jid": "6285169436079@s.whatsapp.net",
+      "name": "PANN VESPER [6079]"
+    },
+    "6283165745239@s.whatsapp.net": {
+      "jid": "6283165745239@s.whatsapp.net",
+      "name": "zikvuck pt nokesa wa 2"
+    },
+    "6281992151981@s.whatsapp.net": {
+      "jid": "6281992151981@s.whatsapp.net",
+      "name": "fnzzstr"
+    },
+    "6285142033016@s.whatsapp.net": {
+      "jid": "6285142033016@s.whatsapp.net",
+      "name": "Fadel"
+    },
+    "628133248295@s.whatsapp.net": {
+      "jid": "628133248295@s.whatsapp.net",
+      "name": "princess"
+    },
+    "6283830062778@s.whatsapp.net": {
+      "jid": "6283830062778@s.whatsapp.net",
+      "name": "YAA SEMTUR [ REKBER ]"
+    },
+    "6281214701640@s.whatsapp.net": {
+      "jid": "6281214701640@s.whatsapp.net",
+      "name": "rafaas"
+    },
+    "6282172959248@s.whatsapp.net": {
+      "jid": "6282172959248@s.whatsapp.net",
+      "name": "Ale hod⁰²"
+    },
+    "6285338666294@s.whatsapp.net": {
+      "jid": "6285338666294@s.whatsapp.net",
+      "name": "🐒🐒🐒🐒"
+    },
+    "628139947113@s.whatsapp.net": {
+      "jid": "628139947113@s.whatsapp.net",
+      "name": "rizky s"
+    },
+    "6285119790834@s.whatsapp.net": {
+      "jid": "6285119790834@s.whatsapp.net",
+      "name": "𝘝𝘢𝘯z♧"
+    },
+    "6281217668944@s.whatsapp.net": {
+      "jid": "6281217668944@s.whatsapp.net",
+      "name": "DINZZ NOPE UTAMA"
+    },
+    "62895601291199@s.whatsapp.net": {
+      "jid": "62895601291199@s.whatsapp.net",
+      "name": "joeng"
+    },
+    "6285787878146@s.whatsapp.net": {
+      "jid": "6285787878146@s.whatsapp.net",
+      "name": "akwal"
+    },
+    "6282233817917@s.whatsapp.net": {
+      "jid": "6282233817917@s.whatsapp.net",
+      "name": "ini kamiel ap hatz??"
+    },
+    "6285606816228@s.whatsapp.net": {
+      "jid": "6285606816228@s.whatsapp.net",
+      "name": "sadi"
+    },
+    "6285119146861@s.whatsapp.net": {
+      "jid": "6285119146861@s.whatsapp.net",
+      "name": "WizzStr"
+    },
+    "628975325357@s.whatsapp.net": {
+      "jid": "628975325357@s.whatsapp.net",
+      "name": "WA REAL REXX STORE #1"
+    },
+    "6283854472995@s.whatsapp.net": {
+      "jid": "6283854472995@s.whatsapp.net",
+      "name": "LANZZ TAMVAN"
+    },
+    "6285847672091@s.whatsapp.net": {
+      "jid": "6285847672091@s.whatsapp.net",
+      "name": "~Shiro"
+    },
+    "6282342565196@s.whatsapp.net": {
+      "jid": "6282342565196@s.whatsapp.net",
+      "name": "kaulitz丰"
+    },
+    "6285777082117@s.whatsapp.net": {
+      "jid": "6285777082117@s.whatsapp.net",
+      "name": "Noah"
+    },
+    "6283190491313@s.whatsapp.net": {
+      "jid": "6283190491313@s.whatsapp.net",
+      "name": "san"
+    },
+    "6283130847058@s.whatsapp.net": {
+      "jid": "6283130847058@s.whatsapp.net",
+      "name": "kksallz"
+    },
+    "6285861559574@s.whatsapp.net": {
+      "jid": "6285861559574@s.whatsapp.net",
+      "name": "Jann Store"
+    },
+    "6283897350813@s.whatsapp.net": {
+      "jid": "6283897350813@s.whatsapp.net",
+      "name": "."
+    },
+    "6283180990966@s.whatsapp.net": {
+      "jid": "6283180990966@s.whatsapp.net",
+      "name": "moc"
+    },
+    "6282114519860@s.whatsapp.net": {
+      "jid": "6282114519860@s.whatsapp.net",
+      "name": "tretereerot>⁠.⁠<(⁠ㆁ⁠ω⁠ㆁ⁠)"
+    },
+    "6285185988055@s.whatsapp.net": {
+      "jid": "6285185988055@s.whatsapp.net",
+      "name": "nopal ni bos"
+    },
+    "6285649099556@s.whatsapp.net": {
+      "jid": "6285649099556@s.whatsapp.net",
+      "name": "hudq"
+    },
+    "6287760222313@s.whatsapp.net": {
+      "jid": "6287760222313@s.whatsapp.net",
+      "name": "~𝚜𝚊𝚍𝚒𝚛𝚊 💓"
+    },
+    "628871168636@s.whatsapp.net": {
+      "jid": "628871168636@s.whatsapp.net",
+      "name": "🎧🎧🌷🌷melizaaa 🌷🌷🎧🎧"
+    },
+    "6281958661263@s.whatsapp.net": {
+      "jid": "6281958661263@s.whatsapp.net",
+      "name": "☛{²⁰¹⁴}☚"
+    },
+    "6285756375576@s.whatsapp.net": {
+      "jid": "6285756375576@s.whatsapp.net",
+      "name": "arsyifa azzahra"
+    },
+    "6285845405362@s.whatsapp.net": {
+      "jid": "6285845405362@s.whatsapp.net",
+      "name": "~camat👀"
+    },
+    "6289528053726@s.whatsapp.net": {
+      "jid": "6289528053726@s.whatsapp.net",
+      "name": "꧁Sɪ𝚍𝚍𝚑ᴜ★Ɓʜᴀɪ꧂"
+    },
+    "6289519559884@s.whatsapp.net": {
+      "jid": "6289519559884@s.whatsapp.net",
+      "name": "Ro"
+    },
+    "6289672618657@s.whatsapp.net": {
+      "jid": "6289672618657@s.whatsapp.net",
+      "name": "FIKAR STORE"
+    },
+    "6283142957200@s.whatsapp.net": {
+      "jid": "6283142957200@s.whatsapp.net",
+      "name": "kènn"
+    },
+    "6283199288957@s.whatsapp.net": {
+      "jid": "6283199288957@s.whatsapp.net",
+      "name": "lukz nyetok kalo mood"
+    },
+    "6285934586738@s.whatsapp.net": {
+      "jid": "6285934586738@s.whatsapp.net",
+      "name": "ws4you str"
+    },
+    "6288269068630@s.whatsapp.net": {
+      "jid": "6288269068630@s.whatsapp.net",
+      "name": "atan"
+    },
+    "6283151662978@s.whatsapp.net": {
+      "jid": "6283151662978@s.whatsapp.net",
+      "name": "🐔"
+    },
+    "6285726287885@s.whatsapp.net": {
+      "jid": "6285726287885@s.whatsapp.net",
+      "name": "arya"
+    },
+    "6283186193103@s.whatsapp.net": {
+      "jid": "6283186193103@s.whatsapp.net",
+      "name": "ciwa"
+    },
+    "628136414857@s.whatsapp.net": {
+      "jid": "628136414857@s.whatsapp.net",
+      "name": "tt"
+    },
+    "6282286214935@s.whatsapp.net": {
+      "jid": "6282286214935@s.whatsapp.net",
+      "name": "VINZZ STORE"
+    },
+    "6285137228339@s.whatsapp.net": {
+      "jid": "6285137228339@s.whatsapp.net",
+      "name": "ley mpruy"
+    },
+    "6281545394254@s.whatsapp.net": {
+      "jid": "6281545394254@s.whatsapp.net",
+      "name": "jarr gmood"
+    },
+    "6289653894968@s.whatsapp.net": {
+      "jid": "6289653894968@s.whatsapp.net",
+      "name": "~•"
+    },
+    "6283838673998@s.whatsapp.net": {
+      "jid": "6283838673998@s.whatsapp.net",
+      "name": "cya ^^"
+    },
+    "62895329580946@s.whatsapp.net": {
+      "jid": "62895329580946@s.whatsapp.net",
+      "name": "𝗅ɑׄ𐓣α"
+    },
+    "62882003799894@s.whatsapp.net": {
+      "jid": "62882003799894@s.whatsapp.net",
+      "name": "whyy"
+    },
+    "6285657380192@s.whatsapp.net": {
+      "jid": "6285657380192@s.whatsapp.net",
+      "name": "."
+    },
+    "6287735310771@s.whatsapp.net": {
+      "jid": "6287735310771@s.whatsapp.net",
+      "name": "princess💐👸🏻"
+    },
+    "6283176122571@s.whatsapp.net": {
+      "jid": "6283176122571@s.whatsapp.net",
+      "name": "Ambatukam"
+    },
+    "62895370482530@s.whatsapp.net": {
+      "jid": "62895370482530@s.whatsapp.net",
+      "name": "wandazhaliandra🪽"
+    },
+    "6282118741084@s.whatsapp.net": {
+      "jid": "6282118741084@s.whatsapp.net",
+      "name": "𝗕𝗢𝗧 𝗝𝗣𝗠 𝗕𝗬 𝗞𝗲𝗻𝗻 𝘀𝘁𝗼𝗿𝗲"
+    },
+    "6285815601559@s.whatsapp.net": {
+      "jid": "6285815601559@s.whatsapp.net",
+      "name": "oki"
+    },
+    "62881011103576@s.whatsapp.net": {
+      "jid": "62881011103576@s.whatsapp.net",
+      "name": "Duxa no khusus jp"
+    },
+    "628987538945@s.whatsapp.net": {
+      "jid": "628987538945@s.whatsapp.net",
+      "name": "pipzz"
+    },
+    "6289528697410@s.whatsapp.net": {
+      "jid": "6289528697410@s.whatsapp.net",
+      "name": "atannnnn"
+    },
+    "62895429691547@s.whatsapp.net": {
+      "jid": "62895429691547@s.whatsapp.net",
+      "name": "Drianz Market"
+    },
+    "923272066167@s.whatsapp.net": {
+      "jid": "923272066167@s.whatsapp.net",
+      "name": "H"
+    },
+    "6283193613587@s.whatsapp.net": {
+      "jid": "6283193613587@s.whatsapp.net",
+      "name": "YANZZZ STUR"
+    },
+    "62895703150469@s.whatsapp.net": {
+      "jid": "62895703150469@s.whatsapp.net",
+      "name": "andini"
+    },
+    "628138871308@s.whatsapp.net": {
+      "jid": "628138871308@s.whatsapp.net",
+      "name": "Rizal store"
+    },
+    "6288271685943@s.whatsapp.net": {
+      "jid": "6288271685943@s.whatsapp.net",
+      "name": "~"
+    },
+    "6283161778581@s.whatsapp.net": {
+      "jid": "6283161778581@s.whatsapp.net",
+      "name": "~R~"
+    },
+    "6282180027440@s.whatsapp.net": {
+      "jid": "6282180027440@s.whatsapp.net",
+      "name": "shadowgod"
+    },
+    "6283191167034@s.whatsapp.net": {
+      "jid": "6283191167034@s.whatsapp.net",
+      "name": "Riyan 🐊"
+    },
+    "6287716552299@s.whatsapp.net": {
+      "jid": "6287716552299@s.whatsapp.net",
+      "name": "Rama"
+    },
+    "6285191183625@s.whatsapp.net": {
+      "jid": "6285191183625@s.whatsapp.net",
+      "name": "Arya Makiki"
+    },
+    "6285129855114@s.whatsapp.net": {
+      "jid": "6285129855114@s.whatsapp.net",
+      "name": "wkwkwk"
+    },
+    "6285896248807@s.whatsapp.net": {
+      "jid": "6285896248807@s.whatsapp.net",
+      "name": "~⸸𝟕𝟎𝟓愛/𝑵𝑨𝑵𝑨/𝟐𝟏𝟐/𝐂𝐌𝐂/@LSTC/𝟑𝟎𝟗"
+    },
+    "6287850932233@s.whatsapp.net": {
+      "jid": "6287850932233@s.whatsapp.net",
+      "name": "~🕸🕷"
+    },
+    "6285838541864@s.whatsapp.net": {
+      "jid": "6285838541864@s.whatsapp.net",
+      "name": "Vannz/Exprince x Pikachu"
+    },
+    "6283150153754@s.whatsapp.net": {
+      "jid": "6283150153754@s.whatsapp.net",
+      "name": "IDI.STORE NOPE PRIBADI"
+    },
+    "6285122781092@s.whatsapp.net": {
+      "jid": "6285122781092@s.whatsapp.net",
+      "name": "kyy"
+    },
+    "6287895153446@s.whatsapp.net": {
+      "jid": "6287895153446@s.whatsapp.net",
+      "name": "IBRA STORE UTAMA ONLY"
+    },
+    "6285196210233@s.whatsapp.net": {
+      "jid": "6285196210233@s.whatsapp.net",
+      "name": "zartzy"
+    },
+    "6283133004785@s.whatsapp.net": {
+      "jid": "6283133004785@s.whatsapp.net",
+      "name": "BOBY STORE"
+    },
+    "628813728745@s.whatsapp.net": {
+      "jid": "628813728745@s.whatsapp.net",
+      "name": "Vemz slowress? mao turu😹"
+    },
+    "6285953861764@s.whatsapp.net": {
+      "jid": "6285953861764@s.whatsapp.net",
+      "name": "nduk_ni"
+    },
+    "6285142186784@s.whatsapp.net": {
+      "jid": "6285142186784@s.whatsapp.net",
+      "name": "ANOMALIXS STR"
+    },
+    "6285821560929@s.whatsapp.net": {
+      "jid": "6285821560929@s.whatsapp.net",
+      "name": "c¡w"
+    },
+    "6285731630782@s.whatsapp.net": {
+      "jid": "6285731630782@s.whatsapp.net",
+      "name": "Nabil"
+    },
+    "6283143524248@s.whatsapp.net": {
+      "jid": "6283143524248@s.whatsapp.net",
+      "name": "cann 🙇🏻‍♀️🙌🏻"
+    },
+    "62895370652441@s.whatsapp.net": {
+      "jid": "62895370652441@s.whatsapp.net",
+      "name": "."
+    },
+    "6283128684522@s.whatsapp.net": {
+      "jid": "6283128684522@s.whatsapp.net",
+      "name": "jadi"
+    },
+    "6285134261749@s.whatsapp.net": {
+      "jid": "6285134261749@s.whatsapp.net",
+      "name": "keyy need gb bekas"
+    },
+    "6285775046173@s.whatsapp.net": {
+      "jid": "6285775046173@s.whatsapp.net",
+      "name": "za improve"
+    },
+    "6287866253909@s.whatsapp.net": {
+      "jid": "6287866253909@s.whatsapp.net",
+      "name": "zoey"
+    },
+    "6285124472213@s.whatsapp.net": {
+      "jid": "6285124472213@s.whatsapp.net",
+      "name": "Faa4youù15"
+    },
+    "6285177161479@s.whatsapp.net": {
+      "jid": "6285177161479@s.whatsapp.net",
+      "name": "banz"
+    },
+    "6283173264302@s.whatsapp.net": {
+      "jid": "6283173264302@s.whatsapp.net",
+      "name": "hamam"
+    },
+    "62895618666366@s.whatsapp.net": {
+      "jid": "62895618666366@s.whatsapp.net",
+      "name": "‎"
+    },
+    "6289504929526@s.whatsapp.net": {
+      "jid": "6289504929526@s.whatsapp.net",
+      "name": "c`ror"
+    },
+    "6285772191483@s.whatsapp.net": {
+      "jid": "6285772191483@s.whatsapp.net",
+      "name": "aldi"
+    },
+    "6285177423644@s.whatsapp.net": {
+      "jid": "6285177423644@s.whatsapp.net",
+      "name": "rmaa"
+    },
+    "6282371683092@s.whatsapp.net": {
+      "jid": "6282371683092@s.whatsapp.net",
+      "name": "bib"
+    },
+    "6283186668712@s.whatsapp.net": {
+      "jid": "6283186668712@s.whatsapp.net",
+      "name": "Danz"
+    },
+    "6281930245421@s.whatsapp.net": {
+      "jid": "6281930245421@s.whatsapp.net",
+      "name": "AQIL STORE (KHUSUS MC)"
+    },
+    "6282281656646@s.whatsapp.net": {
+      "jid": "6282281656646@s.whatsapp.net",
+      "name": "Sakha"
+    },
+    "628978122322@s.whatsapp.net": {
+      "jid": "628978122322@s.whatsapp.net",
+      "name": "bombardilo crocodilo"
+    },
+    "6282156090981@s.whatsapp.net": {
+      "jid": "6282156090981@s.whatsapp.net",
+      "name": "nia"
+    },
+    "6281529227283@s.whatsapp.net": {
+      "jid": "6281529227283@s.whatsapp.net",
+      "name": "hyuga"
+    },
+    "6283178844078@s.whatsapp.net": {
+      "jid": "6283178844078@s.whatsapp.net",
+      "name": "kakasep"
+    },
+    "628139585988@s.whatsapp.net": {
+      "jid": "628139585988@s.whatsapp.net",
+      "name": "Rey Gntng"
+    },
+    "6285709031843@s.whatsapp.net": {
+      "jid": "6285709031843@s.whatsapp.net",
+      "name": "jong"
+    },
+    "6281932806582@s.whatsapp.net": {
+      "jid": "6281932806582@s.whatsapp.net",
+      "name": "piko"
+    },
+    "6285183459762@s.whatsapp.net": {
+      "jid": "6285183459762@s.whatsapp.net",
+      "name": "ray"
+    },
+    "6285735898529@s.whatsapp.net": {
+      "jid": "6285735898529@s.whatsapp.net",
+      "name": "rayenz"
+    },
+    "6283132401342@s.whatsapp.net": {
+      "jid": "6283132401342@s.whatsapp.net",
+      "name": "otnay prame"
+    },
+    "6283870000466@s.whatsapp.net": {
+      "jid": "6283870000466@s.whatsapp.net",
+      "name": "𝐃𝐄𝐀𝐍𝐆𝐎𝐋𝐃𝐄𝐍𝐊𝐈𝐃"
+    },
+    "6285716351527@s.whatsapp.net": {
+      "jid": "6285716351527@s.whatsapp.net",
+      "name": "bot 1"
+    },
+    "6283895867651@s.whatsapp.net": {
+      "jid": "6283895867651@s.whatsapp.net",
+      "name": "atala"
+    },
+    "628132955887@s.whatsapp.net": {
+      "jid": "628132955887@s.whatsapp.net",
+      "name": "🙏🙏🙏🙏🙏🙏"
+    },
+    "6287845777618@s.whatsapp.net": {
+      "jid": "6287845777618@s.whatsapp.net",
+      "name": "maira"
+    },
+    "6281527150623@s.whatsapp.net": {
+      "jid": "6281527150623@s.whatsapp.net",
+      "name": "Rezz store22"
+    },
+    "62895373041177@s.whatsapp.net": {
+      "jid": "62895373041177@s.whatsapp.net",
+      "name": "Revinsya Medi Pahlepi"
+    },
+    "6285141653078@s.whatsapp.net": {
+      "jid": "6285141653078@s.whatsapp.net",
+      "name": "Samz1"
+    },
+    "60167612338@s.whatsapp.net": {
+      "jid": "60167612338@s.whatsapp.net",
+      "name": "𝓶𝓪𝔂𝓿𝓮𝔂 ☃︎"
+    },
+    "6283182455474@s.whatsapp.net": {
+      "jid": "6283182455474@s.whatsapp.net",
+      "name": "empruy"
+    },
+    "62895606245533@s.whatsapp.net": {
+      "jid": "62895606245533@s.whatsapp.net",
+      "name": "bot skyline, pm? denda!"
+    },
+    "6285758797839@s.whatsapp.net": {
+      "jid": "6285758797839@s.whatsapp.net",
+      "name": "."
+    },
+    "6283135080662@s.whatsapp.net": {
+      "jid": "6283135080662@s.whatsapp.net",
+      "name": "𝐪𝐢𝐬𝐬'offv୨ৎ"
+    },
+    "6285825424049@s.whatsapp.net": {
+      "jid": "6285825424049@s.whatsapp.net",
+      "name": "Dizzy"
+    },
+    "6285771241953@s.whatsapp.net": {
+      "jid": "6285771241953@s.whatsapp.net",
+      "name": "nizam setara flado"
+    },
+    "6283153750648@s.whatsapp.net": {
+      "jid": "6283153750648@s.whatsapp.net",
+      "name": "zenz"
+    },
+    "62881023961570@s.whatsapp.net": {
+      "jid": "62881023961570@s.whatsapp.net",
+      "name": "Fian9263"
+    },
+    "62882016040235@s.whatsapp.net": {
+      "jid": "62882016040235@s.whatsapp.net",
+      "name": "ekk Bieber."
+    },
+    "6287869609343@s.whatsapp.net": {
+      "jid": "6287869609343@s.whatsapp.net",
+      "name": "FARZX"
+    },
+    "6287737445405@s.whatsapp.net": {
+      "jid": "6287737445405@s.whatsapp.net",
+      "name": "Nova"
+    },
+    "628152016327@s.whatsapp.net": {
+      "jid": "628152016327@s.whatsapp.net",
+      "name": "Andre🦁"
+    },
+    "62895637321846@s.whatsapp.net": {
+      "jid": "62895637321846@s.whatsapp.net",
+      "name": "stranger."
+    },
+    "6289654273343@s.whatsapp.net": {
+      "jid": "6289654273343@s.whatsapp.net",
+      "name": "kyyy🤓"
+    },
+    "6285134440545@s.whatsapp.net": {
+      "jid": "6285134440545@s.whatsapp.net",
+      "name": "ciyaa"
+    },
+    "6283869955769@s.whatsapp.net": {
+      "jid": "6283869955769@s.whatsapp.net",
+      "name": "dedeii"
+    },
+    "6282311966296@s.whatsapp.net": {
+      "jid": "6282311966296@s.whatsapp.net",
+      "name": "zyyy"
+    },
+    "62882009274437@s.whatsapp.net": {
+      "jid": "62882009274437@s.whatsapp.net",
+      "name": "Rivl`Jihoon"
+    },
+    "6285158956966@s.whatsapp.net": {
+      "jid": "6285158956966@s.whatsapp.net",
+      "name": "Arka"
+    },
+    "62895622388385@s.whatsapp.net": {
+      "jid": "62895622388385@s.whatsapp.net",
+      "name": "not my stle"
+    },
+    "6289510385740@s.whatsapp.net": {
+      "jid": "6289510385740@s.whatsapp.net",
+      "name": "RSTU X"
+    },
+    "6285260331797@s.whatsapp.net": {
+      "jid": "6285260331797@s.whatsapp.net",
+      "name": "ceoo"
+    },
+    "6285187937974@s.whatsapp.net": {
+      "jid": "6285187937974@s.whatsapp.net",
+      "name": "k⸸"
+    },
+    "6281341004021@s.whatsapp.net": {
+      "jid": "6281341004021@s.whatsapp.net",
+      "name": "👾"
+    },
+    "6289603796216@s.whatsapp.net": {
+      "jid": "6289603796216@s.whatsapp.net",
+      "name": "🥷💻HECKER💻🥷"
+    },
+    "628567740276@s.whatsapp.net": {
+      "jid": "628567740276@s.whatsapp.net",
+      "name": "SAMUDRA"
+    },
+    "6288704485542@s.whatsapp.net": {
+      "jid": "6288704485542@s.whatsapp.net",
+      "name": "?"
+    },
+    "6283183580991@s.whatsapp.net": {
+      "jid": "6283183580991@s.whatsapp.net",
+      "name": "COINS JP"
+    },
+    "6281523809432@s.whatsapp.net": {
+      "jid": "6281523809432@s.whatsapp.net",
+      "name": "putraa_tjo"
+    },
+    "6282371489312@s.whatsapp.net": {
+      "jid": "6282371489312@s.whatsapp.net",
+      "name": "Putra"
+    },
+    "6289691451888@s.whatsapp.net": {
+      "jid": "6289691451888@s.whatsapp.net",
+      "name": "a"
+    },
+    "6281371442165@s.whatsapp.net": {
+      "jid": "6281371442165@s.whatsapp.net",
+      "name": "pluz"
+    },
+    "6283870051591@s.whatsapp.net": {
+      "jid": "6283870051591@s.whatsapp.net",
+      "name": "alaaa"
+    },
+    "628137757419@s.whatsapp.net": {
+      "jid": "628137757419@s.whatsapp.net",
+      "name": "~ sikikae"
+    },
+    "6285781257686@s.whatsapp.net": {
+      "jid": "6285781257686@s.whatsapp.net",
+      "name": "Dorademon"
+    },
+    "6285143311478@s.whatsapp.net": {
+      "jid": "6285143311478@s.whatsapp.net",
+      "name": "ryyn"
+    },
+    "628985046007@s.whatsapp.net": {
+      "jid": "628985046007@s.whatsapp.net",
+      "name": "mel"
+    },
+    "62882020846484@s.whatsapp.net": {
+      "jid": "62882020846484@s.whatsapp.net",
+      "name": "ozrapaulus"
+    },
+    "6281333248848@s.whatsapp.net": {
+      "jid": "6281333248848@s.whatsapp.net",
+      "name": "Jovan"
+    },
+    "6285868140542@s.whatsapp.net": {
+      "jid": "6285868140542@s.whatsapp.net",
+      "name": "ajik"
+    },
+    "6282318271685@s.whatsapp.net": {
+      "jid": "6282318271685@s.whatsapp.net",
+      "name": "⠀ ⠀ ⠀ ⠀"
+    },
+    "6285768452695@s.whatsapp.net": {
+      "jid": "6285768452695@s.whatsapp.net",
+      "name": "dedek Mput cantik"
+    },
+    "6287776970564@s.whatsapp.net": {
+      "jid": "6287776970564@s.whatsapp.net",
+      "name": "gatau ps"
+    },
+    "6283115506761@s.whatsapp.net": {
+      "jid": "6283115506761@s.whatsapp.net",
+      "name": "LORD"
+    },
+    "6287874089772@s.whatsapp.net": {
+      "jid": "6287874089772@s.whatsapp.net",
+      "name": "EmranPrtama."
+    },
+    "6285178196855@s.whatsapp.net": {
+      "jid": "6285178196855@s.whatsapp.net",
+      "name": "BUBUL"
+    },
+    "6282318106233@s.whatsapp.net": {
+      "jid": "6282318106233@s.whatsapp.net",
+      "name": "hana"
+    },
+    "6285697391620@s.whatsapp.net": {
+      "jid": "6285697391620@s.whatsapp.net",
+      "name": "Alceo"
+    },
+    "62895350576699@s.whatsapp.net": {
+      "jid": "62895350576699@s.whatsapp.net",
+      "name": "Gobast Nope 2"
+    },
+    "6285810062362@s.whatsapp.net": {
+      "jid": "6285810062362@s.whatsapp.net",
+      "name": "?.."
+    },
+    "6285385143213@s.whatsapp.net": {
+      "jid": "6285385143213@s.whatsapp.net",
+      "name": "inaa aja 🙂‍↕️🗿"
+    },
+    "6283132172649@s.whatsapp.net": {
+      "jid": "6283132172649@s.whatsapp.net",
+      "name": "kyy"
+    },
+    "6289529127036@s.whatsapp.net": {
+      "jid": "6289529127036@s.whatsapp.net",
+      "name": "~Dongoooooo😇"
+    },
+    "6289695988234@s.whatsapp.net": {
+      "jid": "6289695988234@s.whatsapp.net",
+      "name": "bibzz store nope 2"
+    },
+    "6285761264519@s.whatsapp.net": {
+      "jid": "6285761264519@s.whatsapp.net",
+      "name": "dek Mput 🔥"
+    },
+    "6287811640063@s.whatsapp.net": {
+      "jid": "6287811640063@s.whatsapp.net",
+      "name": "ytta"
+    },
+    "6282334572908@s.whatsapp.net": {
+      "jid": "6282334572908@s.whatsapp.net",
+      "name": "m4rs"
+    },
+    "6285147430530@s.whatsapp.net": {
+      "jid": "6285147430530@s.whatsapp.net",
+      "name": "Binn"
+    },
+    "6285708549647@s.whatsapp.net": {
+      "jid": "6285708549647@s.whatsapp.net",
+      "name": "lenn str"
+    },
+    "6289525468401@s.whatsapp.net": {
+      "jid": "6289525468401@s.whatsapp.net",
+      "name": "Muh dzaki"
+    },
+    "6283198465979@s.whatsapp.net": {
+      "jid": "6283198465979@s.whatsapp.net",
+      "name": "ilham jungler onic rrq"
+    },
+    "6281266966737@s.whatsapp.net": {
+      "jid": "6281266966737@s.whatsapp.net",
+      "name": "bullshit."
+    },
+    "62895804234060@s.whatsapp.net": {
+      "jid": "62895804234060@s.whatsapp.net",
+      "name": "rraa"
+    },
+    "6285780623994@s.whatsapp.net": {
+      "jid": "6285780623994@s.whatsapp.net",
+      "name": "𝐂𝐈𝐓𝐄𝐍𝟗 Kazz"
+    },
+    "6287894857985@s.whatsapp.net": {
+      "jid": "6287894857985@s.whatsapp.net",
+      "name": "Faeyza"
+    },
+    "62881024957224@s.whatsapp.net": {
+      "jid": "62881024957224@s.whatsapp.net",
+      "name": "ciicak mure"
+    },
+    "60174781170@s.whatsapp.net": {
+      "jid": "60174781170@s.whatsapp.net",
+      "name": "~aiman"
+    },
+    "6282329809525@s.whatsapp.net": {
+      "jid": "6282329809525@s.whatsapp.net",
+      "name": "yoga yoga yoga"
+    },
+    "6285956062787@s.whatsapp.net": {
+      "jid": "6285956062787@s.whatsapp.net",
+      "name": "QIZZ STORE"
+    },
+    "6281235887657@s.whatsapp.net": {
+      "jid": "6281235887657@s.whatsapp.net",
+      "name": "lin"
+    },
+    "6285166416110@s.whatsapp.net": {
+      "jid": "6285166416110@s.whatsapp.net",
+      "name": "𝐗-𝐎𝐊𝐎𝐓𝐒𝐔"
+    },
+    "6282162413890@s.whatsapp.net": {
+      "jid": "6282162413890@s.whatsapp.net",
+      "name": "sucakkk"
+    },
+    "6283169525609@s.whatsapp.net": {
+      "jid": "6283169525609@s.whatsapp.net",
+      "name": "gua bot ko bg"
+    },
+    "628134754652@s.whatsapp.net": {
+      "jid": "628134754652@s.whatsapp.net",
+      "name": "evnz"
+    },
+    "6283870840182@s.whatsapp.net": {
+      "jid": "6283870840182@s.whatsapp.net",
+      "name": "Dafastore"
+    },
+    "6285757335211@s.whatsapp.net": {
+      "jid": "6285757335211@s.whatsapp.net",
+      "name": "KAFII"
+    },
+    "6288994456213@s.whatsapp.net": {
+      "jid": "6288994456213@s.whatsapp.net",
+      "name": "z"
+    },
+    "6285655543439@s.whatsapp.net": {
+      "jid": "6285655543439@s.whatsapp.net",
+      "name": "zynn reseller sab"
+    },
+    "6289526331117@s.whatsapp.net": {
+      "jid": "6289526331117@s.whatsapp.net",
+      "name": "val"
+    },
+    "6283193898336@s.whatsapp.net": {
+      "jid": "6283193898336@s.whatsapp.net",
+      "name": "danzz"
+    },
+    "6283190118751@s.whatsapp.net": {
+      "jid": "6283190118751@s.whatsapp.net",
+      "name": "ki"
+    },
+    "62895339383651@s.whatsapp.net": {
+      "jid": "62895339383651@s.whatsapp.net",
+      "name": "KIANO C1 KENON"
+    },
+    "6282382119879@s.whatsapp.net": {
+      "jid": "6282382119879@s.whatsapp.net",
+      "name": "TORR || STORE"
+    },
+    "6285658244689@s.whatsapp.net": {
+      "jid": "6285658244689@s.whatsapp.net",
+      "name": "~tdk dkthui"
+    },
+    "6282343014510@s.whatsapp.net": {
+      "jid": "6282343014510@s.whatsapp.net",
+      "name": "Asrun"
+    },
+    "62895323990399@s.whatsapp.net": {
+      "jid": "62895323990399@s.whatsapp.net",
+      "name": "....."
+    },
+    "6287710882930@s.whatsapp.net": {
+      "jid": "6287710882930@s.whatsapp.net",
+      "name": "DAPZzBE4R CAPE KENON"
+    },
+    "628135808709@s.whatsapp.net": {
+      "jid": "628135808709@s.whatsapp.net",
+      "name": "Zeer"
+    },
+    "6283830867012@s.whatsapp.net": {
+      "jid": "6283830867012@s.whatsapp.net",
+      "name": "Lysaau"
+    },
+    "6283867215421@s.whatsapp.net": {
+      "jid": "6283867215421@s.whatsapp.net",
+      "name": "oilah"
+    },
+    "6285147501169@s.whatsapp.net": {
+      "jid": "6285147501169@s.whatsapp.net",
+      "name": "~~kodok-sombonk"
+    },
+    "6283877879303@s.whatsapp.net": {
+      "jid": "6283877879303@s.whatsapp.net",
+      "name": "Nyil.ebew"
+    },
+    "6285123521698@s.whatsapp.net": {
+      "jid": "6285123521698@s.whatsapp.net",
+      "name": "CALLING."
+    },
+    "62887437742294@s.whatsapp.net": {
+      "jid": "62887437742294@s.whatsapp.net",
+      "name": "Pengusaha"
+    },
+    "6285198033227@s.whatsapp.net": {
+      "jid": "6285198033227@s.whatsapp.net",
+      "name": "Monmon1"
+    },
+    "6283801994909@s.whatsapp.net": {
+      "jid": "6283801994909@s.whatsapp.net",
+      "name": "ghh"
+    },
+    "6282227682303@s.whatsapp.net": {
+      "jid": "6282227682303@s.whatsapp.net",
+      "name": "Ryz."
+    },
+    "6288226022059@s.whatsapp.net": {
+      "jid": "6288226022059@s.whatsapp.net",
+      "name": "."
+    },
+    "6285142389456@s.whatsapp.net": {
+      "jid": "6285142389456@s.whatsapp.net",
+      "name": "DRUZX STR¹"
+    },
+    "62895615457594@s.whatsapp.net": {
+      "jid": "62895615457594@s.whatsapp.net",
+      "name": "~❌"
+    },
+    "6282173489297@s.whatsapp.net": {
+      "jid": "6282173489297@s.whatsapp.net",
+      "name": "MUTIARA"
+    },
+    "62895626981302@s.whatsapp.net": {
+      "jid": "62895626981302@s.whatsapp.net",
+      "name": "Thur"
+    },
+    "6288971761994@s.whatsapp.net": {
+      "jid": "6288971761994@s.whatsapp.net",
+      "name": "jeumm"
+    },
+    "6288971373044@s.whatsapp.net": {
+      "jid": "6288971373044@s.whatsapp.net",
+      "name": "dikajago"
+    },
+    "6285134993084@s.whatsapp.net": {
+      "jid": "6285134993084@s.whatsapp.net",
+      "name": "RESS27"
+    },
+    "6289679388512@s.whatsapp.net": {
+      "jid": "6289679388512@s.whatsapp.net",
+      "name": "..."
+    },
+    "6283139514868@s.whatsapp.net": {
+      "jid": "6283139514868@s.whatsapp.net",
+      "name": "taa"
+    },
+    "6283167526270@s.whatsapp.net": {
+      "jid": "6283167526270@s.whatsapp.net",
+      "name": "Zain jb"
+    },
+    "6283877340118@s.whatsapp.net": {
+      "jid": "6283877340118@s.whatsapp.net",
+      "name": "~"
+    },
+    "6285811706485@s.whatsapp.net": {
+      "jid": "6285811706485@s.whatsapp.net",
+      "name": "fadli wahid maulana"
+    },
+    "6288211197094@s.whatsapp.net": {
+      "jid": "6288211197094@s.whatsapp.net",
+      "name": "Who?"
+    },
+    "628568935416@s.whatsapp.net": {
+      "jid": "628568935416@s.whatsapp.net",
+      "name": "𓂀"
+    },
+    "6285846055347@s.whatsapp.net": {
+      "jid": "6285846055347@s.whatsapp.net",
+      "name": "rifalmaualana12"
+    },
+    "6282317658622@s.whatsapp.net": {
+      "jid": "6282317658622@s.whatsapp.net",
+      "name": "Rianz store"
+    },
+    "6285713761198@s.whatsapp.net": {
+      "jid": "6285713761198@s.whatsapp.net",
+      "name": "reyy str jebeh2"
+    },
+    "62881012046110@s.whatsapp.net": {
+      "jid": "62881012046110@s.whatsapp.net",
+      "name": "blzy_"
+    },
+    "62882003337806@s.whatsapp.net": {
+      "jid": "62882003337806@s.whatsapp.net",
+      "name": "⸸𝟕𝟎𝟓| IZZ"
+    },
+    "628978875303@s.whatsapp.net": {
+      "jid": "628978875303@s.whatsapp.net",
+      "name": "𝟭𝟵.𝟯𝟳"
+    },
+    "6283199657313@s.whatsapp.net": {
+      "jid": "6283199657313@s.whatsapp.net",
+      "name": "apa"
+    },
+    "628132824509@s.whatsapp.net": {
+      "jid": "628132824509@s.whatsapp.net",
+      "name": "Jay"
+    },
+    "628980420939@s.whatsapp.net": {
+      "jid": "628980420939@s.whatsapp.net",
+      "name": "."
+    },
+    "6283185703545@s.whatsapp.net": {
+      "jid": "6283185703545@s.whatsapp.net",
+      "name": "COINS REKBER"
+    },
+    "6282264577034@s.whatsapp.net": {
+      "jid": "6282264577034@s.whatsapp.net",
+      "name": "ZAKWAN STR27 REAL OWN SIIN & KANJAPOST17"
+    },
+    "6285845681778@s.whatsapp.net": {
+      "jid": "6285845681778@s.whatsapp.net",
+      "name": "RISKI GANZZ😎"
+    },
+    "6283164493405@s.whatsapp.net": {
+      "jid": "6283164493405@s.whatsapp.net",
+      "name": "macagemas^"
+    },
+    "628981204116@s.whatsapp.net": {
+      "jid": "628981204116@s.whatsapp.net",
+      "name": "otang kebal trik"
+    },
+    "6287797505021@s.whatsapp.net": {
+      "jid": "6287797505021@s.whatsapp.net",
+      "name": "lutfi"
+    },
+    "6281380019458@s.whatsapp.net": {
+      "jid": "6281380019458@s.whatsapp.net",
+      "name": "𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮օɾҽղ.ₐ𝐳kåᵧr𝕦𝒖u🚩🏴"
+    },
+    "6283896430524@s.whatsapp.net": {
+      "jid": "6283896430524@s.whatsapp.net",
+      "name": "p@π suka mie ayam"
+    },
+    "6281291964584@s.whatsapp.net": {
+      "jid": "6281291964584@s.whatsapp.net",
+      "name": "BINATANG BINTANG 5"
+    },
+    "6285782075279@s.whatsapp.net": {
+      "jid": "6285782075279@s.whatsapp.net",
+      "name": "manssstmvn"
+    },
+    "6285977243105@s.whatsapp.net": {
+      "jid": "6285977243105@s.whatsapp.net",
+      "name": "den"
+    },
+    "6285741879522@s.whatsapp.net": {
+      "jid": "6285741879522@s.whatsapp.net",
+      "name": "junawww"
+    },
+    "6285922179553@s.whatsapp.net": {
+      "jid": "6285922179553@s.whatsapp.net",
+      "name": "Lιυ Yυȥҽ"
+    },
+    "6281216285381@s.whatsapp.net": {
+      "jid": "6281216285381@s.whatsapp.net",
+      "name": "not found"
+    },
+    "6285878402951@s.whatsapp.net": {
+      "jid": "6285878402951@s.whatsapp.net",
+      "name": "Benson Boone"
+    },
+    "6285880764934@s.whatsapp.net": {
+      "jid": "6285880764934@s.whatsapp.net",
+      "name": "rofi0433"
+    },
+    "6285177163468@s.whatsapp.net": {
+      "jid": "6285177163468@s.whatsapp.net",
+      "name": "CEO 😘"
+    },
+    "6289674058024@s.whatsapp.net": {
+      "jid": "6289674058024@s.whatsapp.net",
+      "name": "𝙙𝙖𝙣𝙯𝙯𝙭𝙭`"
+    },
+    "6282152311282@s.whatsapp.net": {
+      "jid": "6282152311282@s.whatsapp.net",
+      "name": "mamet"
+    },
+    "6283186838376@s.whatsapp.net": {
+      "jid": "6283186838376@s.whatsapp.net",
+      "name": "Tian"
+    },
+    "6281617821089@s.whatsapp.net": {
+      "jid": "6281617821089@s.whatsapp.net",
+      "name": "Fatt"
+    },
+    "6285136003463@s.whatsapp.net": {
+      "jid": "6285136003463@s.whatsapp.net",
+      "name": "NOVA STR"
+    },
+    "62882017539926@s.whatsapp.net": {
+      "jid": "62882017539926@s.whatsapp.net",
+      "name": "ʀɪᴀɴ ᴘɢ"
+    },
+    "6283897649063@s.whatsapp.net": {
+      "jid": "6283897649063@s.whatsapp.net",
+      "name": "dapaaaaaaaaa"
+    },
+    "6289688093373@s.whatsapp.net": {
+      "jid": "6289688093373@s.whatsapp.net",
+      "name": "FASYA¹ 🇵🇹"
+    },
+    "6289654676008@s.whatsapp.net": {
+      "jid": "6289654676008@s.whatsapp.net",
+      "name": "Arayan"
+    },
+    "6288287555584@s.whatsapp.net": {
+      "jid": "6288287555584@s.whatsapp.net",
+      "name": "jahser 𝗺ܻ𝗲𝝞𝘆ׁ"
+    },
+    "6283857572165@s.whatsapp.net": {
+      "jid": "6283857572165@s.whatsapp.net",
+      "name": "BOT BRAHIM"
+    },
+    "6285693582745@s.whatsapp.net": {
+      "jid": "6285693582745@s.whatsapp.net",
+      "name": "fajarr8263"
+    },
+    "6281927636866@s.whatsapp.net": {
+      "jid": "6281927636866@s.whatsapp.net",
+      "name": "ᥣᥱᥡᥲᥲ ♡☆"
+    },
+    "6289653973144@s.whatsapp.net": {
+      "jid": "6289653973144@s.whatsapp.net",
+      "name": "A. Ji. S. Z"
+    },
+    "6282184389489@s.whatsapp.net": {
+      "jid": "6282184389489@s.whatsapp.net",
+      "name": "ׅ    ۫     𐙚݊ꪀɑׁׅ݊ꪀɑׁׅ ──"
+    },
+    "6282177224111@s.whatsapp.net": {
+      "jid": "6282177224111@s.whatsapp.net",
+      "name": "~mazaki store"
+    },
+    "628980236734@s.whatsapp.net": {
+      "jid": "628980236734@s.whatsapp.net",
+      "name": "VARIT CALLALONI"
+    },
+    "6282160600830@s.whatsapp.net": {
+      "jid": "6282160600830@s.whatsapp.net",
+      "name": "arzy mb💤"
+    },
+    "6289654895167@s.whatsapp.net": {
+      "jid": "6289654895167@s.whatsapp.net",
+      "name": "fahri"
+    },
+    "6285731001032@s.whatsapp.net": {
+      "jid": "6285731001032@s.whatsapp.net",
+      "name": "y"
+    },
+    "6288272192953@s.whatsapp.net": {
+      "jid": "6288272192953@s.whatsapp.net",
+      "name": "DEN§TR"
+    },
+    "6282191972851@s.whatsapp.net": {
+      "jid": "6282191972851@s.whatsapp.net",
+      "name": "Asri"
+    },
+    "6281293286840@s.whatsapp.net": {
+      "jid": "6281293286840@s.whatsapp.net",
+      "name": "d"
+    },
+    "6283853166744@s.whatsapp.net": {
+      "jid": "6283853166744@s.whatsapp.net",
+      "name": "𝓒𝝴ׁ𝘆ׅ? 𝝸๋𝘆ׅ𝝰 𝘀۪𝝰𝘆ׅ𝝰𝗻ׄ𝗴!¡𔘓"
+    },
+    "6285879367725@s.whatsapp.net": {
+      "jid": "6285879367725@s.whatsapp.net",
+      "name": "gagus"
+    },
+    "6281991271036@s.whatsapp.net": {
+      "jid": "6281991271036@s.whatsapp.net",
+      "name": "sibuk"
+    },
+    "6281337935416@s.whatsapp.net": {
+      "jid": "6281337935416@s.whatsapp.net",
+      "name": "B A G U S"
+    },
+    "6285801219218@s.whatsapp.net": {
+      "jid": "6285801219218@s.whatsapp.net",
+      "name": "ipan"
+    },
+    "6283175121266@s.whatsapp.net": {
+      "jid": "6283175121266@s.whatsapp.net",
+      "name": "𝗰꯭𝝴ׅ𝘆ׁ 𝝰ׅ𝗹᳢𝘀𝗻 𝞄 || 𝐋𝐒"
+    },
+    "6285124705075@s.whatsapp.net": {
+      "jid": "6285124705075@s.whatsapp.net",
+      "name": "🐣"
+    },
+    "62895410808414@s.whatsapp.net": {
+      "jid": "62895410808414@s.whatsapp.net",
+      "name": "almernicholl"
+    },
+    "62895627019172@s.whatsapp.net": {
+      "jid": "62895627019172@s.whatsapp.net",
+      "name": "hann"
+    },
+    "6282229477505@s.whatsapp.net": {
+      "jid": "6282229477505@s.whatsapp.net",
+      "name": "𝗧𝗢𝗞𝗢_𝗖𝗥𝗨𝗘𝗟 𝗝𝗔𝗣𝗢𝗦𝗧"
+    },
+    "60179672831@s.whatsapp.net": {
+      "jid": "60179672831@s.whatsapp.net",
+      "name": "mar~"
+    },
+    "6283142112091@s.whatsapp.net": {
+      "jid": "6283142112091@s.whatsapp.net",
+      "name": "gusz ceo👋"
+    },
+    "628174921623@s.whatsapp.net": {
+      "jid": "628174921623@s.whatsapp.net",
+      "name": "DANGZZ STORE"
+    },
+    "6281459108608@s.whatsapp.net": {
+      "jid": "6281459108608@s.whatsapp.net",
+      "name": "𝐒𝐲𝐳𝐲𝐠𝐲//רוח הקודשﷺ;"
+    },
+    "6285781185675@s.whatsapp.net": {
+      "jid": "6285781185675@s.whatsapp.net",
+      "name": "V4elloww store"
+    },
+    "6285256530090@s.whatsapp.net": {
+      "jid": "6285256530090@s.whatsapp.net",
+      "name": "ra."
+    },
+    "6285773040149@s.whatsapp.net": {
+      "jid": "6285773040149@s.whatsapp.net",
+      "name": "sasaa  anak baik"
+    },
+    "628985028663@s.whatsapp.net": {
+      "jid": "628985028663@s.whatsapp.net",
+      "name": "R  for  Rasya🪽"
+    },
+    "6281262127561@s.whatsapp.net": {
+      "jid": "6281262127561@s.whatsapp.net",
+      "name": "?"
+    },
+    "62882003296335@s.whatsapp.net": {
+      "jid": "62882003296335@s.whatsapp.net",
+      "name": "Ambasigh"
+    },
+    "6285882408271@s.whatsapp.net": {
+      "jid": "6285882408271@s.whatsapp.net",
+      "name": "*DitzzGacor*"
+    },
+    "967717726863@s.whatsapp.net": {
+      "jid": "967717726863@s.whatsapp.net",
+      "name": "ابومياسين"
+    },
+    "6285669667864@s.whatsapp.net": {
+      "jid": "6285669667864@s.whatsapp.net",
+      "name": "FEBIAN"
+    },
+    "6281384316395@s.whatsapp.net": {
+      "jid": "6281384316395@s.whatsapp.net",
+      "name": "."
+    },
+    "6289673395462@s.whatsapp.net": {
+      "jid": "6289673395462@s.whatsapp.net",
+      "name": "Baboy ( off v)"
+    },
+    "6285881877131@s.whatsapp.net": {
+      "jid": "6285881877131@s.whatsapp.net",
+      "name": "tanz holic"
+    },
+    "6283176634259@s.whatsapp.net": {
+      "jid": "6283176634259@s.whatsapp.net",
+      "name": "van str"
+    },
+    "62895403134164@s.whatsapp.net": {
+      "jid": "62895403134164@s.whatsapp.net",
+      "name": "JELYY DRING"
+    },
+    "6282344675627@s.whatsapp.net": {
+      "jid": "6282344675627@s.whatsapp.net",
+      "name": "Noyx"
+    },
+    "6285725491149@s.whatsapp.net": {
+      "jid": "6285725491149@s.whatsapp.net",
+      "name": "ziss store"
+    },
+    "62882000071977@s.whatsapp.net": {
+      "jid": "62882000071977@s.whatsapp.net",
+      "name": "?"
+    },
+    "6282190329711@s.whatsapp.net": {
+      "jid": "6282190329711@s.whatsapp.net",
+      "name": "Feyron"
+    },
+    "6283198340518@s.whatsapp.net": {
+      "jid": "6283198340518@s.whatsapp.net",
+      "name": "𝐁𝐒𝐅 || ⸸𝟐𝟔 𝐍𝐚𝐫𝐞𝐧 @𝙻𝚂𝚃𝙲"
+    },
+    "6289677475773@s.whatsapp.net": {
+      "jid": "6289677475773@s.whatsapp.net",
+      "name": "nama akun ku 💬"
+    },
+    "6281990758455@s.whatsapp.net": {
+      "jid": "6281990758455@s.whatsapp.net",
+      "name": "yanzz store"
+    },
+    "6285607601082@s.whatsapp.net": {
+      "jid": "6285607601082@s.whatsapp.net",
+      "name": "~ nopalws"
+    },
+    "6285177006082@s.whatsapp.net": {
+      "jid": "6285177006082@s.whatsapp.net",
+      "name": "Ranzx"
+    },
+    "6281377091429@s.whatsapp.net": {
+      "jid": "6281377091429@s.whatsapp.net",
+      "name": "*Emeli*🫶🏻🫶🏻🫰🏻🤭"
+    },
+    "6287838194167@s.whatsapp.net": {
+      "jid": "6287838194167@s.whatsapp.net",
+      "name": "."
+    },
+    "6282335200314@s.whatsapp.net": {
+      "jid": "6282335200314@s.whatsapp.net",
+      "name": "Azkaaa STORE"
+    },
+    "6283115139260@s.whatsapp.net": {
+      "jid": "6283115139260@s.whatsapp.net",
+      "name": "rafinstore"
+    },
+    "6285789559381@s.whatsapp.net": {
+      "jid": "6285789559381@s.whatsapp.net",
+      "name": "gtw sopo"
+    },
+    "6283133004870@s.whatsapp.net": {
+      "jid": "6283133004870@s.whatsapp.net",
+      "name": "Rifai"
+    },
+    "6283160113396@s.whatsapp.net": {
+      "jid": "6283160113396@s.whatsapp.net",
+      "name": "kallz"
+    },
+    "6285837096662@s.whatsapp.net": {
+      "jid": "6285837096662@s.whatsapp.net",
+      "name": "Em"
+    },
+    "6283113111700@s.whatsapp.net": {
+      "jid": "6283113111700@s.whatsapp.net",
+      "name": "ini akun lpm ya"
+    },
+    "62882003760648@s.whatsapp.net": {
+      "jid": "62882003760648@s.whatsapp.net",
+      "name": "ell"
+    },
+    "6289674471555@s.whatsapp.net": {
+      "jid": "6289674471555@s.whatsapp.net",
+      "name": "bot"
+    },
+    "6283862736383@s.whatsapp.net": {
+      "jid": "6283862736383@s.whatsapp.net",
+      "name": "Muhaj🀄"
+    },
+    "6285928135377@s.whatsapp.net": {
+      "jid": "6285928135377@s.whatsapp.net",
+      "name": "Tann Takahashi [5377]"
+    },
+    "6285169200359@s.whatsapp.net": {
+      "jid": "6285169200359@s.whatsapp.net",
+      "name": "?"
+    },
+    "6283181652054@s.whatsapp.net": {
+      "jid": "6283181652054@s.whatsapp.net",
+      "name": "putrii"
+    },
+    "6285606285710@s.whatsapp.net": {
+      "jid": "6285606285710@s.whatsapp.net",
+      "name": "Faldzzz♣️"
+    },
+    "6285877951309@s.whatsapp.net": {
+      "jid": "6285877951309@s.whatsapp.net",
+      "name": "Kzz"
+    },
+    "6285810777087@s.whatsapp.net": {
+      "jid": "6285810777087@s.whatsapp.net",
+      "name": "ikyyyyyyyyyyyyyy😑😑😑😑"
+    },
+    "6285767808571@s.whatsapp.net": {
+      "jid": "6285767808571@s.whatsapp.net",
+      "name": "mbas"
+    },
+    "6281252257453@s.whatsapp.net": {
+      "jid": "6281252257453@s.whatsapp.net",
+      "name": "REX? km gpp ?"
+    },
+    "62895335060205@s.whatsapp.net": {
+      "jid": "62895335060205@s.whatsapp.net",
+      "name": "hicaammm"
+    },
+    "6285881344501@s.whatsapp.net": {
+      "jid": "6285881344501@s.whatsapp.net",
+      "name": "PAZz."
+    },
+    "6289673906701@s.whatsapp.net": {
+      "jid": "6289673906701@s.whatsapp.net",
+      "name": "puputt"
+    },
+    "62881012463684@s.whatsapp.net": {
+      "jid": "62881012463684@s.whatsapp.net",
+      "name": "juragan reyy dm"
+    },
+    "6282312525728@s.whatsapp.net": {
+      "jid": "6282312525728@s.whatsapp.net",
+      "name": "𝑔𝑢𝑛𝑡𝑢𝑟|| 𝟐𝟎𝟓"
+    },
+    "6285138445440@s.whatsapp.net": {
+      "jid": "6285138445440@s.whatsapp.net",
+      "name": "japstor"
+    },
+    "6283873128770@s.whatsapp.net": {
+      "jid": "6283873128770@s.whatsapp.net",
+      "name": "kpo lu tai🫵🏻🦶🏻"
+    },
+    "6285142642650@s.whatsapp.net": {
+      "jid": "6285142642650@s.whatsapp.net",
+      "name": "apa"
+    },
+    "6283165538978@s.whatsapp.net": {
+      "jid": "6283165538978@s.whatsapp.net",
+      "name": "Naskkyy"
+    },
+    "6285169405179@s.whatsapp.net": {
+      "jid": "6285169405179@s.whatsapp.net",
+      "name": "sjjz"
+    },
+    "6283153750514@s.whatsapp.net": {
+      "jid": "6283153750514@s.whatsapp.net",
+      "name": "cylnn str"
+    },
+    "6287749073265@s.whatsapp.net": {
+      "jid": "6287749073265@s.whatsapp.net",
+      "name": "JPM"
+    },
+    "6283114562069@s.whatsapp.net": {
+      "jid": "6283114562069@s.whatsapp.net",
+      "name": "BRU.pixzy"
+    },
+    "6283851193139@s.whatsapp.net": {
+      "jid": "6283851193139@s.whatsapp.net",
+      "name": "ARYA PRATAMA"
+    },
+    "6282239860060@s.whatsapp.net": {
+      "jid": "6282239860060@s.whatsapp.net",
+      "name": "Yuuuu"
+    },
+    "6283871021852@s.whatsapp.net": {
+      "jid": "6283871021852@s.whatsapp.net",
+      "name": "nurul"
+    },
+    "6283199318160@s.whatsapp.net": {
+      "jid": "6283199318160@s.whatsapp.net",
+      "name": "admin nara"
+    },
+    "6285157068882@s.whatsapp.net": {
+      "jid": "6285157068882@s.whatsapp.net",
+      "name": "𝑛𝑎_ajah💥🌹"
+    },
+    "628895521956@s.whatsapp.net": {
+      "jid": "628895521956@s.whatsapp.net",
+      "name": "Noval Noval"
+    },
+    "6282253887514@s.whatsapp.net": {
+      "jid": "6282253887514@s.whatsapp.net",
+      "name": "L❗"
+    },
+    "6283196105613@s.whatsapp.net": {
+      "jid": "6283196105613@s.whatsapp.net",
+      "name": "khusus nyari buyer ganteg"
+    },
+    "6287897452811@s.whatsapp.net": {
+      "jid": "6287897452811@s.whatsapp.net",
+      "name": "rz"
+    },
+    "628213350128@s.whatsapp.net": {
+      "jid": "628213350128@s.whatsapp.net",
+      "name": "REKBER"
+    },
+    "6285776274568@s.whatsapp.net": {
+      "jid": "6285776274568@s.whatsapp.net",
+      "name": "matthew"
+    },
+    "6283849840877@s.whatsapp.net": {
+      "jid": "6283849840877@s.whatsapp.net",
+      "name": "iruyy"
+    },
+    "6285143099519@s.whatsapp.net": {
+      "jid": "6285143099519@s.whatsapp.net",
+      "name": "finnn store"
+    },
+    "6283196403489@s.whatsapp.net": {
+      "jid": "6283196403489@s.whatsapp.net",
+      "name": "NISWA UNCEK"
+    },
+    "6281320319576@s.whatsapp.net": {
+      "jid": "6281320319576@s.whatsapp.net",
+      "name": "Hanzy Nope 2"
+    },
+    "6283125196411@s.whatsapp.net": {
+      "jid": "6283125196411@s.whatsapp.net",
+      "name": "udinzz sajako"
+    },
+    "6285353295759@s.whatsapp.net": {
+      "jid": "6285353295759@s.whatsapp.net",
+      "name": "Muhammad Khoirul azam"
+    },
+    "6283169353440@s.whatsapp.net": {
+      "jid": "6283169353440@s.whatsapp.net",
+      "name": "fuckkk"
+    },
+    "6285882459726@s.whatsapp.net": {
+      "jid": "6285882459726@s.whatsapp.net",
+      "name": "m"
+    },
+    "6283169237975@s.whatsapp.net": {
+      "jid": "6283169237975@s.whatsapp.net",
+      "name": "mar store"
+    },
+    "6285777743850@s.whatsapp.net": {
+      "jid": "6285777743850@s.whatsapp.net",
+      "name": "yanzo19"
+    },
+    "6282281954582@s.whatsapp.net": {
+      "jid": "6282281954582@s.whatsapp.net",
+      "name": "ca"
+    },
+    "6283167827393@s.whatsapp.net": {
+      "jid": "6283167827393@s.whatsapp.net",
+      "name": "hitamm"
+    },
+    "6282163781628@s.whatsapp.net": {
+      "jid": "6282163781628@s.whatsapp.net",
+      "name": "Nilawati"
+    },
+    "628818392037@s.whatsapp.net": {
+      "jid": "628818392037@s.whatsapp.net",
+      "name": "lanzz"
+    },
+    "6287883876648@s.whatsapp.net": {
+      "jid": "6287883876648@s.whatsapp.net",
+      "name": "SAKA"
+    },
+    "6287894303620@s.whatsapp.net": {
+      "jid": "6287894303620@s.whatsapp.net",
+      "name": "htono8010"
+    },
+    "628217649791@s.whatsapp.net": {
+      "jid": "628217649791@s.whatsapp.net",
+      "name": "anna?👅❕"
+    },
+    "6287782457150@s.whatsapp.net": {
+      "jid": "6287782457150@s.whatsapp.net",
+      "name": "Nararya"
+    },
+    "6283142216656@s.whatsapp.net": {
+      "jid": "6283142216656@s.whatsapp.net",
+      "name": "~Langit / XERA /"
+    },
+    "6285640714093@s.whatsapp.net": {
+      "jid": "6285640714093@s.whatsapp.net",
+      "name": "°"
+    },
+    "62882019745980@s.whatsapp.net": {
+      "jid": "62882019745980@s.whatsapp.net",
+      "name": "dytihfay😹"
+    },
+    "62895626834634@s.whatsapp.net": {
+      "jid": "62895626834634@s.whatsapp.net",
+      "name": "𝐎𝐥𝐢𝐯𝐢𝐚||𝟒𝟕&||▒⃞🌊"
+    },
+    "62881036390599@s.whatsapp.net": {
+      "jid": "62881036390599@s.whatsapp.net",
+      "name": "FAJAR LAGI GURING"
+    },
+    "6288985282742@s.whatsapp.net": {
+      "jid": "6288985282742@s.whatsapp.net",
+      "name": "Fadhil/fadzx str"
+    },
+    "6281264307089@s.whatsapp.net": {
+      "jid": "6281264307089@s.whatsapp.net",
+      "name": "jmk"
+    },
+    "6285705883110@s.whatsapp.net": {
+      "jid": "6285705883110@s.whatsapp.net",
+      "name": "WIZZYOU REG SUKABUMI"
+    },
+    "6285763854775@s.whatsapp.net": {
+      "jid": "6285763854775@s.whatsapp.net",
+      "name": "Fanzz store nope²"
+    },
+    "6285840031411@s.whatsapp.net": {
+      "jid": "6285840031411@s.whatsapp.net",
+      "name": "~`|π"
+    },
+    "6285183851369@s.whatsapp.net": {
+      "jid": "6285183851369@s.whatsapp.net",
+      "name": "Nndaa"
+    },
+    "6285776317285@s.whatsapp.net": {
+      "jid": "6285776317285@s.whatsapp.net",
+      "name": "dillz kcunk😹"
+    },
+    "6288286838812@s.whatsapp.net": {
+      "jid": "6288286838812@s.whatsapp.net",
+      "name": "dan."
+    },
+    "6287888794325@s.whatsapp.net": {
+      "jid": "6287888794325@s.whatsapp.net",
+      "name": "siapa aja"
+    },
+    "6287768493891@s.whatsapp.net": {
+      "jid": "6287768493891@s.whatsapp.net",
+      "name": "Heinrich Held Auditore."
+    },
+    "6285177831156@s.whatsapp.net": {
+      "jid": "6285177831156@s.whatsapp.net",
+      "name": "vinnkeceh"
+    },
+    "6285361675401@s.whatsapp.net": {
+      "jid": "6285361675401@s.whatsapp.net",
+      "name": "🏆🏆🏆"
+    },
+    "6285196812343@s.whatsapp.net": {
+      "jid": "6285196812343@s.whatsapp.net",
+      "name": "idannieh"
+    },
+    "6281933546544@s.whatsapp.net": {
+      "jid": "6281933546544@s.whatsapp.net",
+      "name": "®ANDA™"
+    },
+    "6289604375397@s.whatsapp.net": {
+      "jid": "6289604375397@s.whatsapp.net",
+      "name": "revangga"
+    },
+    "628216130855@s.whatsapp.net": {
+      "jid": "628216130855@s.whatsapp.net",
+      "name": "AZAM"
+    },
+    "6283176815198@s.whatsapp.net": {
+      "jid": "6283176815198@s.whatsapp.net",
+      "name": "RIDWAN"
+    },
+    "6281385869722@s.whatsapp.net": {
+      "jid": "6281385869722@s.whatsapp.net",
+      "name": "auliya"
+    },
+    "6285123223770@s.whatsapp.net": {
+      "jid": "6285123223770@s.whatsapp.net",
+      "name": "rels vs kenon"
+    },
+    "6283843852749@s.whatsapp.net": {
+      "jid": "6283843852749@s.whatsapp.net",
+      "name": "Abid Aqila Pranajah"
+    },
+    "6288971177763@s.whatsapp.net": {
+      "jid": "6288971177763@s.whatsapp.net",
+      "name": "🥷🥷"
+    },
+    "6287893370038@s.whatsapp.net": {
+      "jid": "6287893370038@s.whatsapp.net",
+      "name": "Yupyii"
+    },
+    "6285137432502@s.whatsapp.net": {
+      "jid": "6285137432502@s.whatsapp.net",
+      "name": "kiestore"
+    },
+    "6281990324591@s.whatsapp.net": {
+      "jid": "6281990324591@s.whatsapp.net",
+      "name": "zyy DKK"
+    },
+    "6281266351861@s.whatsapp.net": {
+      "jid": "6281266351861@s.whatsapp.net",
+      "name": "tama tama"
+    },
+    "6285216936226@s.whatsapp.net": {
+      "jid": "6285216936226@s.whatsapp.net",
+      "name": "N"
+    },
+    "6285772315429@s.whatsapp.net": {
+      "jid": "6285772315429@s.whatsapp.net",
+      "name": "rye"
+    },
+    "6282172497498@s.whatsapp.net": {
+      "jid": "6282172497498@s.whatsapp.net",
+      "name": "L"
+    },
+    "6285124718836@s.whatsapp.net": {
+      "jid": "6285124718836@s.whatsapp.net",
+      "name": "yans"
+    },
+    "6288983635325@s.whatsapp.net": {
+      "jid": "6288983635325@s.whatsapp.net",
+      "name": "قدوره"
+    },
+    "6285724781644@s.whatsapp.net": {
+      "jid": "6285724781644@s.whatsapp.net",
+      "name": "ahihi"
+    },
+    "62882000328909@s.whatsapp.net": {
+      "jid": "62882000328909@s.whatsapp.net",
+      "name": "√all"
+    },
+    "6283876822834@s.whatsapp.net": {
+      "jid": "6283876822834@s.whatsapp.net",
+      "name": "Imu"
+    },
+    "6285148052984@s.whatsapp.net": {
+      "jid": "6285148052984@s.whatsapp.net",
+      "name": "FATAN"
+    },
+    "6283153112893@s.whatsapp.net": {
+      "jid": "6283153112893@s.whatsapp.net",
+      "name": "C9 cciimeyy"
+    },
+    "6282261820259@s.whatsapp.net": {
+      "jid": "6282261820259@s.whatsapp.net",
+      "name": "Dion"
+    },
+    "6283155548668@s.whatsapp.net": {
+      "jid": "6283155548668@s.whatsapp.net",
+      "name": "ddlhxxaa"
+    },
+    "6285652123024@s.whatsapp.net": {
+      "jid": "6285652123024@s.whatsapp.net",
+      "name": "dell"
+    },
+    "6285882506989@s.whatsapp.net": {
+      "jid": "6285882506989@s.whatsapp.net",
+      "name": "wayz"
+    },
+    "6283124874680@s.whatsapp.net": {
+      "jid": "6283124874680@s.whatsapp.net",
+      "name": "aldi"
+    },
+    "6285864017708@s.whatsapp.net": {
+      "jid": "6285864017708@s.whatsapp.net",
+      "name": "𝑎𝑑𝑒𝑘 𝑖𝑚𝑦𝑢𝑡💐"
+    },
+    "6285286057874@s.whatsapp.net": {
+      "jid": "6285286057874@s.whatsapp.net",
+      "name": "𝘼𝙇    |   𝙆𝙀𝘾𝙀"
+    },
+    "6289517975474@s.whatsapp.net": {
+      "jid": "6289517975474@s.whatsapp.net",
+      "name": "."
+    },
+    "6283164385367@s.whatsapp.net": {
+      "jid": "6283164385367@s.whatsapp.net",
+      "name": "𝖗𝖞𝖍𝖍||𝐖𝐈𝐋𝐕𝐒•𝟏𝟎𝟓"
+    },
+    "6282364744313@s.whatsapp.net": {
+      "jid": "6282364744313@s.whatsapp.net",
+      "name": "musik sndiri"
+    },
+    "6281380311846@s.whatsapp.net": {
+      "jid": "6281380311846@s.whatsapp.net",
+      "name": "sopo"
+    },
+    "6287832514024@s.whatsapp.net": {
+      "jid": "6287832514024@s.whatsapp.net",
+      "name": "kyuu"
+    },
+    "6289691450965@s.whatsapp.net": {
+      "jid": "6289691450965@s.whatsapp.net",
+      "name": "Zaky Store"
+    },
+    "6285141118620@s.whatsapp.net": {
+      "jid": "6285141118620@s.whatsapp.net",
+      "name": "¥~DEPZZ~¥"
+    },
+    "62895403192946@s.whatsapp.net": {
+      "jid": "62895403192946@s.whatsapp.net",
+      "name": "pankoncelllll/04"
+    },
+    "6285230003034@s.whatsapp.net": {
+      "jid": "6285230003034@s.whatsapp.net",
+      "name": "RAZORGANTENG"
+    },
+    "6282147484868@s.whatsapp.net": {
+      "jid": "6282147484868@s.whatsapp.net",
+      "name": "vinzz VERCUS'19"
+    },
+    "6282276944165@s.whatsapp.net": {
+      "jid": "6282276944165@s.whatsapp.net",
+      "name": "r¡flzz🫪"
+    },
+    "6289654959619@s.whatsapp.net": {
+      "jid": "6289654959619@s.whatsapp.net",
+      "name": "gopurrrr"
+    },
+    "6285756698535@s.whatsapp.net": {
+      "jid": "6285756698535@s.whatsapp.net",
+      "name": "bunda"
+    },
+    "6285194349984@s.whatsapp.net": {
+      "jid": "6285194349984@s.whatsapp.net",
+      "name": "kezia barat"
+    },
+    "6283838932175@s.whatsapp.net": {
+      "jid": "6283838932175@s.whatsapp.net",
+      "name": "VANzz🇨🇵"
+    },
+    "6283135281713@s.whatsapp.net": {
+      "jid": "6283135281713@s.whatsapp.net",
+      "name": "𝐍𝐎𝐌𝐎𝐑 𝐁𝐎𝐓 ||𝐏𝐌=𝐁𝐔𝐆!!"
+    },
+    "6289699442313@s.whatsapp.net": {
+      "jid": "6289699442313@s.whatsapp.net",
+      "name": "Azam"
+    },
+    "6285716917331@s.whatsapp.net": {
+      "jid": "6285716917331@s.whatsapp.net",
+      "name": "iq+ ketenangan=win☠️"
+    },
+    "6287872911336@s.whatsapp.net": {
+      "jid": "6287872911336@s.whatsapp.net",
+      "name": "🚀📈"
+    },
+    "6285353859449@s.whatsapp.net": {
+      "jid": "6285353859449@s.whatsapp.net",
+      "name": "."
+    },
+    "6288973220973@s.whatsapp.net": {
+      "jid": "6288973220973@s.whatsapp.net",
+      "name": "Adelia JOB FREELANCE"
+    },
+    "6285143897645@s.whatsapp.net": {
+      "jid": "6285143897645@s.whatsapp.net",
+      "name": "Ziii"
+    },
+    "6283836473729@s.whatsapp.net": {
+      "jid": "6283836473729@s.whatsapp.net",
+      "name": "Faiz"
+    },
+    "6289527803235@s.whatsapp.net": {
+      "jid": "6289527803235@s.whatsapp.net",
+      "name": "goyo NPL"
+    },
+    "6289682036221@s.whatsapp.net": {
+      "jid": "6289682036221@s.whatsapp.net",
+      "name": "Lawliet"
+    },
+    "6285169402369@s.whatsapp.net": {
+      "jid": "6285169402369@s.whatsapp.net",
+      "name": "."
+    },
+    "6287796134034@s.whatsapp.net": {
+      "jid": "6287796134034@s.whatsapp.net",
+      "name": "ZineaCorps,romo𓅪SMANTAJASU, 教員 | KA, 𝐇𝐑𝐈𝐐ᵀᵉᵃᵐ"
+    },
+    "6285124729027@s.whatsapp.net": {
+      "jid": "6285124729027@s.whatsapp.net",
+      "name": "𝗷𝝰ׅ𝗰̷𝗲ׂ𝗹 𝗱𝗶𝞀ׅ𝝰ׅ𝗶𝗶"
+    },
+    "6282146540141@s.whatsapp.net": {
+      "jid": "6282146540141@s.whatsapp.net",
+      "name": "azz."
+    },
+    "6283172164705@s.whatsapp.net": {
+      "jid": "6283172164705@s.whatsapp.net",
+      "name": "Manz Market"
+    },
+    "6287788730867@s.whatsapp.net": {
+      "jid": "6287788730867@s.whatsapp.net",
+      "name": "Pahmi"
+    },
+    "628998620495@s.whatsapp.net": {
+      "jid": "628998620495@s.whatsapp.net",
+      "name": "paduka novz"
+    },
+    "6288242143441@s.whatsapp.net": {
+      "jid": "6288242143441@s.whatsapp.net",
+      "name": "PINGHABOO"
+    },
+    "6281255693376@s.whatsapp.net": {
+      "jid": "6281255693376@s.whatsapp.net",
+      "name": "𝐤𝐞𝐲𝐲 𝐉𝐏𝐌"
+    },
+    "6282148485566@s.whatsapp.net": {
+      "jid": "6282148485566@s.whatsapp.net",
+      "name": "p. sp"
+    },
+    "6281370168145@s.whatsapp.net": {
+      "jid": "6281370168145@s.whatsapp.net",
+      "name": "jayyz piluss 🏴󠁧󠁢󠁥󠁮󠁧󠁿[8145"
+    },
+    "62895396122050@s.whatsapp.net": {
+      "jid": "62895396122050@s.whatsapp.net",
+      "name": "ZEL ZEL"
+    },
+    "62895630509264@s.whatsapp.net": {
+      "jid": "62895630509264@s.whatsapp.net",
+      "name": "aylie/mayla"
+    },
+    "62882002343223@s.whatsapp.net": {
+      "jid": "62882002343223@s.whatsapp.net",
+      "name": "~🦖"
+    },
+    "79019151719@s.whatsapp.net": {
+      "jid": "79019151719@s.whatsapp.net",
+      "name": "pladimir putin"
+    },
+    "6283146824867@s.whatsapp.net": {
+      "jid": "6283146824867@s.whatsapp.net",
+      "name": "LOHOPOE"
+    },
+    "6285648036112@s.whatsapp.net": {
+      "jid": "6285648036112@s.whatsapp.net",
+      "name": "ㅤㅤ"
+    },
+    "6288216084686@s.whatsapp.net": {
+      "jid": "6288216084686@s.whatsapp.net",
+      "name": "who??"
+    },
+    "6283842023449@s.whatsapp.net": {
+      "jid": "6283842023449@s.whatsapp.net",
+      "name": "TRISTAN RAKA ERLANSYAH👑⚽👑"
+    },
+    "6289507754944@s.whatsapp.net": {
+      "jid": "6289507754944@s.whatsapp.net",
+      "name": "reinzz"
+    },
+    "6283176122619@s.whatsapp.net": {
+      "jid": "6283176122619@s.whatsapp.net",
+      "name": "rey ganteng"
+    },
+    "6285191678557@s.whatsapp.net": {
+      "jid": "6285191678557@s.whatsapp.net",
+      "name": "Vikram market"
+    },
+    "6285185511067@s.whatsapp.net": {
+      "jid": "6285185511067@s.whatsapp.net",
+      "name": "relzy seller"
+    },
+    "6283171136904@s.whatsapp.net": {
+      "jid": "6283171136904@s.whatsapp.net",
+      "name": "Reyy holic"
+    },
+    "62895630560929@s.whatsapp.net": {
+      "jid": "62895630560929@s.whatsapp.net",
+      "name": "zamri ft"
+    },
+    "6288901448623@s.whatsapp.net": {
+      "jid": "6288901448623@s.whatsapp.net",
+      "name": "org"
+    },
+    "6288210240332@s.whatsapp.net": {
+      "jid": "6288210240332@s.whatsapp.net",
+      "name": "caaa"
+    },
+    "6285188620108@s.whatsapp.net": {
+      "jid": "6285188620108@s.whatsapp.net",
+      "name": "rzz`"
+    },
+    "628983317556@s.whatsapp.net": {
+      "jid": "628983317556@s.whatsapp.net",
+      "name": "ilham"
+    },
+    "60109286263@s.whatsapp.net": {
+      "jid": "60109286263@s.whatsapp.net",
+      "name": "nurul"
+    },
+    "6285932532866@s.whatsapp.net": {
+      "jid": "6285932532866@s.whatsapp.net",
+      "name": "M"
+    },
+    "6282127662083@s.whatsapp.net": {
+      "jid": "6282127662083@s.whatsapp.net",
+      "name": "𝟏𝟕𝐣𝐚𝐜𝐡𝐲"
+    },
+    "6281288869765@s.whatsapp.net": {
+      "jid": "6281288869765@s.whatsapp.net",
+      "name": "arjuna"
+    },
+    "6285124167089@s.whatsapp.net": {
+      "jid": "6285124167089@s.whatsapp.net",
+      "name": "CEO JPM"
+    },
+    "6289508788348@s.whatsapp.net": {
+      "jid": "6289508788348@s.whatsapp.net",
+      "name": "wirr"
+    },
+    "6285849120181@s.whatsapp.net": {
+      "jid": "6285849120181@s.whatsapp.net",
+      "name": "si CECEP gemoy🇦🇱"
+    },
+    "6281543417902@s.whatsapp.net": {
+      "jid": "6281543417902@s.whatsapp.net",
+      "name": "🍭🍭🍭gaga"
+    },
+    "62882017220709@s.whatsapp.net": {
+      "jid": "62882017220709@s.whatsapp.net",
+      "name": "dyxz store"
+    },
+    "6285732253928@s.whatsapp.net": {
+      "jid": "6285732253928@s.whatsapp.net",
+      "name": "JAN DI PM NANTI KE SPAM"
+    },
+    "6285738270922@s.whatsapp.net": {
+      "jid": "6285738270922@s.whatsapp.net",
+      "name": ".Mas'Dhik-"
+    },
+    "6283169104908@s.whatsapp.net": {
+      "jid": "6283169104908@s.whatsapp.net",
+      "name": "HeyNdikfandhik👋"
+    },
+    "6285856773575@s.whatsapp.net": {
+      "jid": "6285856773575@s.whatsapp.net",
+      "name": "ainz"
+    },
+    "6285921683123@s.whatsapp.net": {
+      "jid": "6285921683123@s.whatsapp.net",
+      "name": "aka aja"
+    },
+    "6289502075111@s.whatsapp.net": {
+      "jid": "6289502075111@s.whatsapp.net",
+      "name": "IYEK"
+    },
+    "6285137209604@s.whatsapp.net": {
+      "jid": "6285137209604@s.whatsapp.net",
+      "name": "ikwh"
+    },
+    "6285199571380@s.whatsapp.net": {
+      "jid": "6285199571380@s.whatsapp.net",
+      "name": "jack"
+    },
+    "62895634497408@s.whatsapp.net": {
+      "jid": "62895634497408@s.whatsapp.net",
+      "name": "ৎ 🍒  ︴˚ 𝐩𝐚𝐧𝐠𝐠𝐢𝐥 𝐚𝐣𝐚 𝐦𝐛𝐠 ❕"
+    },
+    "6288286523015@s.whatsapp.net": {
+      "jid": "6288286523015@s.whatsapp.net",
+      "name": "A🦖"
+    },
+    "6285218631779@s.whatsapp.net": {
+      "jid": "6285218631779@s.whatsapp.net",
+      "name": "Ago"
+    },
+    "6283832957581@s.whatsapp.net": {
+      "jid": "6283832957581@s.whatsapp.net",
+      "name": "chocolate"
+    },
+    "6283173576832@s.whatsapp.net": {
+      "jid": "6283173576832@s.whatsapp.net",
+      "name": "HZXVONX"
+    },
+    "6289524089097@s.whatsapp.net": {
+      "jid": "6289524089097@s.whatsapp.net",
+      "name": "kepoo kau"
+    },
+    "6285862297547@s.whatsapp.net": {
+      "jid": "6285862297547@s.whatsapp.net",
+      "name": "bisnisstokhp"
+    },
+    "628812363284@s.whatsapp.net": {
+      "jid": "628812363284@s.whatsapp.net",
+      "name": "dull jigle"
+    },
+    "6288228906272@s.whatsapp.net": {
+      "jid": "6288228906272@s.whatsapp.net",
+      "name": "$"
+    },
+    "6283896757956@s.whatsapp.net": {
+      "jid": "6283896757956@s.whatsapp.net",
+      "name": "bellaa136136"
+    },
+    "6283155546909@s.whatsapp.net": {
+      "jid": "6283155546909@s.whatsapp.net",
+      "name": "Yuda"
+    },
+    "6285188311424@s.whatsapp.net": {
+      "jid": "6285188311424@s.whatsapp.net",
+      "name": "sture"
+    },
+    "6288293710455@s.whatsapp.net": {
+      "jid": "6288293710455@s.whatsapp.net",
+      "name": "own grace no rush"
+    },
+    "6281215139583@s.whatsapp.net": {
+      "jid": "6281215139583@s.whatsapp.net",
+      "name": "jyoo jpm"
+    },
+    "6287873584429@s.whatsapp.net": {
+      "jid": "6287873584429@s.whatsapp.net",
+      "name": "exzz store"
+    },
+    "6283134445440@s.whatsapp.net": {
+      "jid": "6283134445440@s.whatsapp.net",
+      "name": "xanzter"
+    },
+    "6287840419493@s.whatsapp.net": {
+      "jid": "6287840419493@s.whatsapp.net",
+      "name": "hanz str [3349]"
+    },
+    "6287784402149@s.whatsapp.net": {
+      "jid": "6287784402149@s.whatsapp.net",
+      "name": "devn"
+    },
+    "6282148025597@s.whatsapp.net": {
+      "jid": "6282148025597@s.whatsapp.net",
+      "name": "hemz"
+    },
+    "6289673466558@s.whatsapp.net": {
+      "jid": "6289673466558@s.whatsapp.net",
+      "name": "Firlyy pake F"
+    },
+    "6285286113379@s.whatsapp.net": {
+      "jid": "6285286113379@s.whatsapp.net",
+      "name": "aagan"
+    },
+    "6283175297979@s.whatsapp.net": {
+      "jid": "6283175297979@s.whatsapp.net",
+      "name": "."
+    },
+    "6283837335714@s.whatsapp.net": {
+      "jid": "6283837335714@s.whatsapp.net",
+      "name": "admin nope 2"
+    },
+    "6281515699624@s.whatsapp.net": {
+      "jid": "6281515699624@s.whatsapp.net",
+      "name": "~Cheleng🇸🇴"
+    },
+    "6289502524962@s.whatsapp.net": {
+      "jid": "6289502524962@s.whatsapp.net",
+      "name": "CLAY MARKET NEW"
+    },
+    "6285141796303@s.whatsapp.net": {
+      "jid": "6285141796303@s.whatsapp.net",
+      "name": "driiistecu"
+    },
+    "62895634398998@s.whatsapp.net": {
+      "jid": "62895634398998@s.whatsapp.net",
+      "name": "Bangzenn mny"
+    },
+    "6283195875745@s.whatsapp.net": {
+      "jid": "6283195875745@s.whatsapp.net",
+      "name": "FaiFaiFaiFairifai"
+    },
+    "6285196426556@s.whatsapp.net": {
+      "jid": "6285196426556@s.whatsapp.net",
+      "name": "ikiizz str"
+    },
+    "6285820107015@s.whatsapp.net": {
+      "jid": "6285820107015@s.whatsapp.net",
+      "name": "KING LS"
+    },
+    "6283847584183@s.whatsapp.net": {
+      "jid": "6283847584183@s.whatsapp.net",
+      "name": "low"
+    },
+    "6287768700218@s.whatsapp.net": {
+      "jid": "6287768700218@s.whatsapp.net",
+      "name": "barr ft cees"
+    },
+    "6283198341271@s.whatsapp.net": {
+      "jid": "6283198341271@s.whatsapp.net",
+      "name": "Nang"
+    },
+    "62882003805138@s.whatsapp.net": {
+      "jid": "62882003805138@s.whatsapp.net",
+      "name": "𝐓𝗵𝗲 .:𝐌a̷d͇a͜͡𝗺𝗲. ---- 𝐑ọs̾e͜͡ l̷𝘆𝗻˒〕〖𝐒༼̀͜𝐍𝐑̶̜͡¹ ཀྵ〗 نحيف"
+    },
+    "6289679205090@s.whatsapp.net": {
+      "jid": "6289679205090@s.whatsapp.net",
+      "name": "𝐑𝐀𝐏𝐗 | 𝐂𝐓𝐑"
+    },
+    "6285608478343@s.whatsapp.net": {
+      "jid": "6285608478343@s.whatsapp.net",
+      "name": "It's call me galzz 🐉🐉"
+    },
+    "628989100939@s.whatsapp.net": {
+      "jid": "628989100939@s.whatsapp.net",
+      "name": "ꪆ୧ yii ꪆ୧"
+    },
+    "6282245592112@s.whatsapp.net": {
+      "jid": "6282245592112@s.whatsapp.net",
+      "name": "~ King'BunG"
+    },
+    "6289674049870@s.whatsapp.net": {
+      "jid": "6289674049870@s.whatsapp.net",
+      "name": "저는 사과 76개를 좋아해요"
+    },
+    "6289697249830@s.whatsapp.net": {
+      "jid": "6289697249830@s.whatsapp.net",
+      "name": "nadnidnud 𖣂⸸"
+    },
+    "628138903484@s.whatsapp.net": {
+      "jid": "628138903484@s.whatsapp.net",
+      "name": "Rxyzz Jago"
+    },
+    "6287774934243@s.whatsapp.net": {
+      "jid": "6287774934243@s.whatsapp.net",
+      "name": "deztavuck kw"
+    },
+    "6285781122815@s.whatsapp.net": {
+      "jid": "6285781122815@s.whatsapp.net",
+      "name": "idc"
+    },
+    "6288274109454@s.whatsapp.net": {
+      "jid": "6288274109454@s.whatsapp.net",
+      "name": "miw"
+    },
+    "6285150236638@s.whatsapp.net": {
+      "jid": "6285150236638@s.whatsapp.net",
+      "name": "rab khusus share 2"
+    },
+    "6282221843280@s.whatsapp.net": {
+      "jid": "6282221843280@s.whatsapp.net",
+      "name": "M-Wahyu"
+    },
+    "6285199674543@s.whatsapp.net": {
+      "jid": "6285199674543@s.whatsapp.net",
+      "name": "Chill_Beanie"
+    },
+    "6282285685449@s.whatsapp.net": {
+      "jid": "6282285685449@s.whatsapp.net",
+      "name": "si alan~"
+    },
+    "6283160596614@s.whatsapp.net": {
+      "jid": "6283160596614@s.whatsapp.net",
+      "name": "zayyx devolver"
+    },
+    "6282240470790@s.whatsapp.net": {
+      "jid": "6282240470790@s.whatsapp.net",
+      "name": "irpinnn"
+    },
+    "6285138954638@s.whatsapp.net": {
+      "jid": "6285138954638@s.whatsapp.net",
+      "name": "Zenstore"
+    },
+    "6285124973176@s.whatsapp.net": {
+      "jid": "6285124973176@s.whatsapp.net",
+      "name": "IPENG STUREE"
+    },
+    "6281929929304@s.whatsapp.net": {
+      "jid": "6281929929304@s.whatsapp.net",
+      "name": "rusdy🙏🏻"
+    },
+    "6285119392956@s.whatsapp.net": {
+      "jid": "6285119392956@s.whatsapp.net",
+      "name": "Fanzx²"
+    },
+    "6285920357112@s.whatsapp.net": {
+      "jid": "6285920357112@s.whatsapp.net",
+      "name": "someone new? bulshitt"
+    },
+    "6285965895883@s.whatsapp.net": {
+      "jid": "6285965895883@s.whatsapp.net",
+      "name": "yunfomojebeh"
+    },
+    "6285726180142@s.whatsapp.net": {
+      "jid": "6285726180142@s.whatsapp.net",
+      "name": "Millow"
+    },
+    "62882008343406@s.whatsapp.net": {
+      "jid": "62882008343406@s.whatsapp.net",
+      "name": "flado v2"
+    },
+    "6283891312667@s.whatsapp.net": {
+      "jid": "6283891312667@s.whatsapp.net",
+      "name": "||DEWA🇦🇱"
+    },
+    "6285761117862@s.whatsapp.net": {
+      "jid": "6285761117862@s.whatsapp.net",
+      "name": "Apri"
+    },
+    "6283827036174@s.whatsapp.net": {
+      "jid": "6283827036174@s.whatsapp.net",
+      "name": "Nisssssss🐱"
+    },
+    "6288994138832@s.whatsapp.net": {
+      "jid": "6288994138832@s.whatsapp.net",
+      "name": "Alang"
+    },
+    "6285728011058@s.whatsapp.net": {
+      "jid": "6285728011058@s.whatsapp.net",
+      "name": "ᜭ𝟒𝖚.𝐳𝐚𝐯𝐞||𝐙𝐎𝐁.𝐒.𝐄𝐗.𝐗𝐈𝐈.𝐈𝐃"
+    },
+    "6285694946628@s.whatsapp.net": {
+      "jid": "6285694946628@s.whatsapp.net",
+      "name": "sall"
+    },
+    "6285933273422@s.whatsapp.net": {
+      "jid": "6285933273422@s.whatsapp.net",
+      "name": "yonzjpm¹"
+    },
+    "6285835250890@s.whatsapp.net": {
+      "jid": "6285835250890@s.whatsapp.net",
+      "name": "NOPE:3 NANGIN STORE"
+    },
+    "6282152153887@s.whatsapp.net": {
+      "jid": "6282152153887@s.whatsapp.net",
+      "name": "rio"
+    },
+    "6281401966972@s.whatsapp.net": {
+      "jid": "6281401966972@s.whatsapp.net",
+      "name": "ksya"
+    },
+    "6285756368595@s.whatsapp.net": {
+      "jid": "6285756368595@s.whatsapp.net",
+      "name": "ADMIN UTAMA"
+    },
+    "628217732298@s.whatsapp.net": {
+      "jid": "628217732298@s.whatsapp.net",
+      "name": "."
+    },
+    "6285819145285@s.whatsapp.net": {
+      "jid": "6285819145285@s.whatsapp.net",
+      "name": "."
+    },
+    "6281918511771@s.whatsapp.net": {
+      "jid": "6281918511771@s.whatsapp.net",
+      "name": "gezzz"
+    },
+    "62895385312277@s.whatsapp.net": {
+      "jid": "62895385312277@s.whatsapp.net",
+      "name": "ramz"
+    },
+    "60133972093@s.whatsapp.net": {
+      "jid": "60133972093@s.whatsapp.net",
+      "name": "scene girlx (¬◡¬)✧"
+    },
+    "628973258726@s.whatsapp.net": {
+      "jid": "628973258726@s.whatsapp.net",
+      "name": "mel"
+    },
+    "6289509440139@s.whatsapp.net": {
+      "jid": "6289509440139@s.whatsapp.net",
+      "name": "Ahmad Afan Khadafy"
+    },
+    "6285188936793@s.whatsapp.net": {
+      "jid": "6285188936793@s.whatsapp.net",
+      "name": "Zamz stur"
+    },
+    "6289502682126@s.whatsapp.net": {
+      "jid": "6289502682126@s.whatsapp.net",
+      "name": "𝑰𝑲𝒀 𝑺𝑻𝑶𝑹𝑬"
+    },
+    "6283176138324@s.whatsapp.net": {
+      "jid": "6283176138324@s.whatsapp.net",
+      "name": "ceyya idgaf"
+    },
+    "6288980819628@s.whatsapp.net": {
+      "jid": "6288980819628@s.whatsapp.net",
+      "name": "16B4y`"
+    },
+    "6289529555133@s.whatsapp.net": {
+      "jid": "6289529555133@s.whatsapp.net",
+      "name": "Fr"
+    },
+    "6285896222795@s.whatsapp.net": {
+      "jid": "6285896222795@s.whatsapp.net",
+      "name": "king jiggel"
+    },
+    "6281230366990@s.whatsapp.net": {
+      "jid": "6281230366990@s.whatsapp.net",
+      "name": "Malzz"
+    },
+    "6282373616414@s.whatsapp.net": {
+      "jid": "6282373616414@s.whatsapp.net",
+      "name": "zeco"
+    },
+    "6285742691046@s.whatsapp.net": {
+      "jid": "6285742691046@s.whatsapp.net",
+      "name": "N"
     }
   },
   "notiflimit": false,
