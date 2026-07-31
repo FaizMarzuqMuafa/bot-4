@@ -10,7 +10,7 @@ const config = {
 
   owner: {
     name: "pais", // Nama owner
-    number: ["6288212949095"], // Format: 628xxx (tanpa + atau 0)
+    number: ["62881011965054"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
