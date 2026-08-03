@@ -16,7 +16,7 @@
   "onlyGc": false,
   "onlyPc": false,
   "giveaways": {},
-  "botMode": "public",
+  "botMode": "self",
   "audioMenu": true,
   "transactionSessions": {},
   "premiumUsers": [],
@@ -86,6 +86,10 @@
     "62895428283397@s.whatsapp.net": {
       "jid": "62895428283397@s.whatsapp.net",
       "name": "kira"
+    },
+    "6283116101192@s.whatsapp.net": {
+      "jid": "6283116101192@s.whatsapp.net",
+      "name": "ebew"
     }
   },
   "notiflimit": false,
