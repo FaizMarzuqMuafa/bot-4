@@ -66,7 +66,28 @@
   "ownerNames": {},
   "publicGroups": [],
   "autoRead": false,
-  "contacts": {},
+  "contacts": {
+    "6288212949095@s.whatsapp.net": {
+      "jid": "6288212949095@s.whatsapp.net",
+      "name": "idk"
+    },
+    "6285133216497@s.whatsapp.net": {
+      "jid": "6285133216497@s.whatsapp.net",
+      "name": "Bieber"
+    },
+    "62881011965054@s.whatsapp.net": {
+      "jid": "62881011965054@s.whatsapp.net",
+      "name": "Michael"
+    },
+    "6285187343572@s.whatsapp.net": {
+      "jid": "6285187343572@s.whatsapp.net",
+      "name": "Justin"
+    },
+    "62895428283397@s.whatsapp.net": {
+      "jid": "62895428283397@s.whatsapp.net",
+      "name": "kira"
+    }
+  },
   "notiflimit": false,
   "pgTopups": {},
   "pgPayments": {},
