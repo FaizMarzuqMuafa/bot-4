@@ -50,27 +50,46 @@
     "goodbye": false,
     "leave": false,
     "jid": "120363410193739570@g.us",
-    "name": "Unknown Group",
+    "name": "YT : FallZx Infinity X Infinity Store",
     "antilink": false,
     "antitoxic": false,
     "mute": false,
     "game": true,
     "rpg": true,
     "warnings": [],
-    "chat": {}
+    "chat": {},
+    "chatStats": {
+      "6285813708397@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1785816873625,
+        "name": "FallZx Infinity"
+      }
+    }
   },
   "120363405129381498@g.us": {
     "welcome": false,
     "goodbye": false,
     "leave": false,
     "jid": "120363405129381498@g.us",
-    "name": "Unknown Group",
+    "name": "FallXd Community",
     "antilink": false,
     "antitoxic": false,
     "mute": false,
     "game": true,
     "rpg": true,
     "warnings": [],
-    "chat": {}
+    "chat": {},
+    "chatStats": {
+      "6285813708397@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1785816876315,
+        "name": "FallZx Infinity"
+      },
+      "6285815672968@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1785827504219,
+        "name": "ZansPiw"
+      }
+    }
   }
 }
